@@ -7,7 +7,6 @@ title: Inicio
 > Este sitio es un espacio de estudio personal y un "cerebro digital" en constante construcción. Aunque el análisis y la interconexión de las Escrituras se realizan desde la perspectiva de la fe católica, las reflexiones, opiniones y apuntes aquí expresados son **estrictamente personales**. No representan declaraciones oficiales de la Iglesia Católica, de ninguna diócesis, ni del Magisterio.
 
 Este espacio está diseñado para explorar, interconectar y profundizar en las Sagradas Escrituras. Funciona como una red de conceptos: cada versículo, personaje o documento histórico está enlazado para mostrar cómo toda la fe se conecta entre sí.
-
 ## 🗺️ Guía de Navegación
 
 En el menú lateral encontrarás las carpetas principales. Aquí te explico qué contiene cada una para facilitar tu exploración:
@@ -26,6 +25,11 @@ Un glosario personal interconectado. Cuando en un versículo leas sobre "Jerusal
 
 ### 🔗 04 - Recursos y Enlaces
 Mi biblioteca de herramientas externas. Aquí guardo bibliografía, sitios web católicos recomendados, canales de estudio y otras referencias de consulta que utilizo para alimentar este cerebro digital.
+
+### 🧭 05 - Guías
+Un espacio dedicado a métodos de estudio, cronogramas y planes estructurados. Aquí organizo los documentos que me ayudan a mantener el ritmo y el orden, como los planes de lectura anual.
+
+- [[Guia Lectura diaria.pdf|Guía para la Lectura Diaria de la Biblia (Plan Anual)]]
 
 ---
 *Paz y bien. Siéntete libre de hacer clic en cualquier enlace y explorar.*
