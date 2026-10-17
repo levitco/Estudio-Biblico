@@ -154,6 +154,13 @@ plugins:
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
+    options:
+      localGraph:
+        repelForce: 0.2
+        linkDistance: 20
+      globalGraph:
+        repelForce: 0.2
+        linkDistance: 20
     layout:
       position: right
       priority: 10
