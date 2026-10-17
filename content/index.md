@@ -1,5 +1,5 @@
 ---
-title: Inicio
+title: «Padre, cuídame; Jesús, perdóname; Espíritu Santo, guíame.»
 ---
 # Bienvenidos a mi Estudio Bíblico
 
