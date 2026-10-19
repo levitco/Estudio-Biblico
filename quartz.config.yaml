@@ -238,8 +238,8 @@ plugins:
   - source: "@quartz-community/recent-notes"
     enabled: true
     options:
-      title: "Nuevos Artículos"
-      limit: 10
+      title: "Actualizaciones recientes"
+      limit: 5
     layout:
       position: right
       priority: 5
