@@ -1,3 +1,6 @@
+
+### ¿Veneración de Iconos: Tradición Antibíblica o Verdad Bíblica?
+
 La Palabra de Dios prohíbe de forma tajante la fabricación de ídolos o representaciones de seres creados cuando la intención es rendirles culto o tomarlos por deidades:
 
 > [!tip] Éx 20,1-5: 
