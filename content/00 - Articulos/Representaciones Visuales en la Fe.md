@@ -1,4 +1,3 @@
-
 ### ¿Veneración de Iconos: Tradición Antibíblica o Verdad Bíblica?
 
 La Palabra de Dios prohíbe de forma tajante la fabricación de ídolos o representaciones de seres creados cuando la intención es rendirles culto o tomarlos por deidades:
@@ -164,4 +163,6 @@ Es fundamental notar que la erradicación de la serpiente de bronce contó con e
 Este hecho ratifica que la prohibición divina recae específicamente sobre aquellas representaciones, iconos o ídolos que personifican a deidades ajenas o a seres de la creación a los que se les atribuye erróneamente un carácter sagrado. El Señor rechaza de plano cualquier figura que intente retratar a un dios falso o que ponga a una criatura en el lugar de lo divino. Sin embargo, no existe una desaprobación hacia las representaciones artísticas que están libres de cultos falsos o que no fomentan la adoración indebida de lo creado.
 
 A fin de cuentas, el Creador en persona dispuso en varias ocasiones la manufactura de piezas iconográficas e incluso autorizó a siervos suyos, como el rey Salomón, a ornamentar las escalinatas de su solio real con figuras plásticas de leones.
+
+## «Padre, cuídame; Jesús, perdóname; Espíritu Santo, guíame.»
 
