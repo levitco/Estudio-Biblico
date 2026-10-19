@@ -236,7 +236,7 @@ plugins:
     enabled: true
     options:
       title: "Nuevos Artículos"
-      limit: 5
+      limit: 10
     layout:
       position: right
       priority: 5
