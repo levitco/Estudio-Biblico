@@ -1,5 +1,5 @@
 ---
-title:
+title: '"Tu palabra es una lámpara a mis pies, y una luz en mi camino." (Salmo 119, 105)'
 ---
 # Bienvenidos al Estudio Bíblico
 
