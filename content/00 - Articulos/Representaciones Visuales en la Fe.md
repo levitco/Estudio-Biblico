@@ -118,7 +118,7 @@ El rey Salomón mandó labrar además doce esculturas de leones, ubicándolas a 
 19 El trono tenía seis gradas, un respaldo redondo, brazos a uno y otro lado del asiento, dos leones de pie junto a los brazos
 20 y doce leones de pie sobre las seis gradas, a uno y otro lado. Nada igual llegó a hacerse para ningún otro reino."
 
-El rey Solomon no es un caso aislado, puesto que al profeta Ezekiel se le concedió una revelación del Templo reconstruido en Jerusalem, donde observó que el lugar estaba adornado con representaciones de palmeras y figuras de cherubim.
+El rey Salomón no es un caso aislado, puesto que al profeta Ezequiel se le concedió una revelación del Templo reconstruido en Jerusalén, donde observó que el lugar estaba adornado con representaciones de palmeras y figuras de querubines.
 
 > [!tip] Ez 41,18-20.25: 
 > "18 había representados querubines y palmeras, una palmera entre querubín y querubín; cada querubín tenía dos caras:
@@ -131,7 +131,7 @@ El santuario del Señor sería el sitio menos pensado para albergar esculturas s
 
 Con esto llego al argumento de cierre.
 
-En la época en que los hijos de Israel morían a causa de víboras venenosas debido a sus quejas contra el Creador, acudieron a Moses para implorarle que intercediera ante Dios y los librara de esa plaga. La solución que el Señor diseñó para sanar a los afectados consistió en ordenar a Moses la fabricación de una serpiente de bronce colocada sobre una astasta, con el fin de que los heridos se salvaran al fijar su mirada en ella:
+En la época en que los hijos de Israel morían a causa de víboras venenosas debido a sus quejas contra el Creador, acudieron a Moisés para implorarle que intercediera ante Dios y los librara de esa plaga. La solución que el Señor diseñó para sanar a los afectados consistió en ordenar a Moisés la fabricación de una serpiente de bronce colocada sobre una astasta, con el fin de que los heridos se salvaran al fijar su mirada en ella:
 
 > [!tip] Nm 21,4-9: 
 > "4 Partieron del monte Hor, camino del mar de Suf, rodeando el territorio de Edom. El pueblo se impacientó por el camino.
@@ -141,14 +141,14 @@ En la época en que los hijos de Israel morían a causa de víboras venenosas de
 8 Y dijo Yahvé a Moisés: "Hazte una serpiente abrasadora y ponla sobre un mástil. Todo el que haya sido mordido y la mire, vivirá."
 9 Hizo Moisés una serpiente de bronce y la puso en un mástil. Y si una serpiente mordía a un hombre y éste miraba la serpiente de bronce, quedaba con vida."
 
-El propio Jesus aludió a este episodio de la serpiente de bronce para ilustrar cómo su futura crucifixión serviría como el gran bálsamo de salvación para rescatar a la humanidad de sus faltas.
+El propio Jesús aludió a este episodio de la serpiente de bronce para ilustrar cómo su futura crucifixión serviría como el gran bálsamo de salvación para rescatar a la humanidad de sus faltas.
 
 > [!tip] Jn 3,14-16: 
 > "14 Y como Moisés elevó la serpiente en el desierto, así tiene que ser elevado el Hijo del hombre,
 15 para que todo el que crea tenga en él la vida eterna.
 16 Porque tanto amó Dios al mundo que dio a su Hijo unigénito, para que todo el que crea en él no perezca, sino que tenga vida eterna."
 
-Lo que vuelve todavía más llamativo el caso de la serpiente de bronce es que confirma de manera contundente la postura inicial: el Creador no se opone a la creación de figuras artísticas, ni tampoco a que se les profiera un respeto profundo. En realidad, la desaprobación divina se dirige de forma exclusiva a aquellas representaciones que pretenden personificar a falsas divinidades para rendirles la adoración que solo a Él le corresponde. Esta distinción se aprecia con total nitidez en las acciones del rey Hezekiah, quien intervino de manera drástica en el momento en que el pueblo de Israel desvió el propósito de aquel objeto y comenzó a incluirlo dentro de los rituales idolátricos con los que daban culto a otros dioses:
+Lo que vuelve todavía más llamativo el caso de la serpiente de bronce es que confirma de manera contundente la postura inicial: el Creador no se opone a la creación de figuras artísticas, ni tampoco a que se les profiera un respeto profundo. En realidad, la desaprobación divina se dirige de forma exclusiva a aquellas representaciones que pretenden personificar a falsas divinidades para rendirles la adoración que solo a Él le corresponde. Esta distinción se aprecia con total nitidez en las acciones del rey Ezequías, quien intervino de manera drástica en el momento en que el pueblo de Israel desvió el propósito de aquel objeto y comenzó a incluirlo dentro de los rituales idolátricos con los que daban culto a otros dioses:
 
 > [!tip] 2R 18,1-4: 
 > "1 En el año tercero de Oseas, hijo de Elá, rey de Israel, comenzó a reinar Ezequías, hijo de Ajaz, rey de Judá.
@@ -160,5 +160,5 @@ Es fundamental notar que la erradicación de la serpiente de bronce contó con e
 
 Este hecho ratifica que la prohibición divina recae específicamente sobre aquellas representaciones, iconos o ídolos que personifican a deidades ajenas o a seres de la creación a los que se les atribuye erróneamente un carácter sagrado. El Señor rechaza de plano cualquier figura que intente retratar a un dios falso o que ponga a una criatura en el lugar de lo divino. Sin embargo, no existe una desaprobación hacia las representaciones artísticas que están libres de cultos falsos o que no fomentan la adoración indebida de lo creado.
 
-A fin de cuentas, el Creador en persona dispuso en varias ocasiones la manufactura de piezas iconográficas e incluso autorizó a siervos suyos, como el rey Solomon, a ornamentar las escalinatas de su solio real con figuras plásticas de leones.
+A fin de cuentas, el Creador en persona dispuso en varias ocasiones la manufactura de piezas iconográficas e incluso autorizó a siervos suyos, como el rey Salomón, a ornamentar las escalinatas de su solio real con figuras plásticas de leones.
 

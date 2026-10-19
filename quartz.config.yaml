@@ -5,7 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: google
+    tagId: "G-FV8GYBB6SL"
   locale: en-US
   baseUrl: levitco.github.io/Estudio-Biblico
   ignorePatterns:
