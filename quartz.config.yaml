@@ -223,6 +223,8 @@ plugins:
     layout:
       position: afterBody
       priority: 10
+      exclude:
+        - "01 - Sagrada Escritura"
   - source: "@quartz-community/footer"
     enabled: false
     options:
