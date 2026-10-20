@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: google
     tagId: "G-FV8GYBB6SL"
-  locale: en-US
+  locale: es-ES
   baseUrl: levitco.github.io/Estudio-Biblico
   ignorePatterns:
     - private
@@ -176,8 +176,8 @@ plugins:
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
-      position: right
-      priority: 50
+      position: afterBody
+      priority: 10
   - source: "@quartz-community/article-title"
     enabled: true
     layout:
@@ -239,10 +239,12 @@ plugins:
     enabled: true
     options:
       title: "Actualizaciones recientes"
-      limit: 5
+      limit: 3
     layout:
       position: right
       priority: 5
+      exclude:
+        - "01 - Sagrada Escritura"
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}

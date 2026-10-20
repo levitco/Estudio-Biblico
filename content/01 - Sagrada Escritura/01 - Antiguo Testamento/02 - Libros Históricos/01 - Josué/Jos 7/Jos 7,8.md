@@ -1,0 +1,1 @@
+"8 ¡Perdón, Señor! ¿Qué puedo decir ahora que Israel ha vuelto la espalda ante sus enemigos?" [[Jos 7,9]]

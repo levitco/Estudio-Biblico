@@ -12,7 +12,7 @@ title: '"Leer la Biblia te hace protestante; entenderla te hace católico."'
 
 Aquí puedes explorar los temas y ensayos más recientes publicados en el sitio:
 
-- ✍️ **[[Representaciones visuales en la fe]]** — Un análisis sobre el uso de imágenes sagradas, su fundamento en las Sagradas Escrituras
+- ✍️ **[[Representaciones Visuales en la Fe]]** — Un análisis sobre el uso de imágenes sagradas, su fundamento en las Sagradas Escrituras
 
 ---
 

@@ -1,0 +1,1 @@
+"7 Dijo Josué: "¡Ah, Señor Yahvé! ¿Por qué has hecho pasar el Jordán a este pueblo, para entregarnos en manos de los amorreos y destruirnos? ¡Ojalá nos hubiésemos empeñado en establecernos al otro lado del Jordán!" [[Jos 7,8]]

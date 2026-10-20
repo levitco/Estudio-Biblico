@@ -4,3 +4,5 @@ Esta carpeta es el "almacén" de la bóveda. Aquí se guardan las imágenes, PDF
 
 * [[Catecismo Iglesia Católica.pdf]]
 * [[Compendio Catecismo Iglesia Católica.pdf]]
+* [[Guia Lectura diaria.pdf]]
+

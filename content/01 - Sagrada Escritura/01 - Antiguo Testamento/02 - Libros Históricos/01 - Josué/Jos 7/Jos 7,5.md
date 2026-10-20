@@ -1,0 +1,1 @@
+"5 Los hombres de Ay les mataron como unos treinta y seis hombres y los persiguieron fuera de la puerta hasta Sebarín, y los derrotaron en la bajada. Entonces desfalleció el corazón del pueblo y se derritió como agua." [[Jos 7,6]]

@@ -1,0 +1,1 @@
+"4 Subieron a Ay unos tres mil hombres del pueblo, pero tuvieron que huir ante los hombres de Ay." [[Jos 7,5]]

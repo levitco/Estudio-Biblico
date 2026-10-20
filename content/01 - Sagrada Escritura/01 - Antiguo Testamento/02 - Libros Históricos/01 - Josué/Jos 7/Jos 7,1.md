@@ -1,0 +1,1 @@
+"1 Pero los israelitas cometieron un delito en relación con el anatema. Acán, hijo de Carmí, hijo de Zabdí, hijo de Zéraj, de la tribu de Judá, se quedó con algo del anatema, y la ira de Yahvé se encendió contra los israelitas." [[Jos 7,2]]

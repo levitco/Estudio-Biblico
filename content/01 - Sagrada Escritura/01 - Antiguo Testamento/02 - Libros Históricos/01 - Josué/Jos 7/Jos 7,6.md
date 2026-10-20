@@ -1,0 +1,1 @@
+"6 Josué desgarró sus vestidos, se postró rostro en tierra delante del arca de Yahvé hasta la tarde, junto con los ancianos de Israel, y todos esparcieron polvo sobre sus cabezas." [[Jos 7,7]]

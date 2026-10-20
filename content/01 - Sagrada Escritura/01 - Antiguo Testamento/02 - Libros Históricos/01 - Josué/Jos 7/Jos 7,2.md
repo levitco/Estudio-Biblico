@@ -1,0 +1,1 @@
+"2 Josué envió de Jericó a Ay, que está (junto a Bet Avén) al oriente de Betel, unos hombres, diciéndoles: "Subid a explorar el país." Los hombres subieron y exploraron Ay." [[Jos 7,3]]

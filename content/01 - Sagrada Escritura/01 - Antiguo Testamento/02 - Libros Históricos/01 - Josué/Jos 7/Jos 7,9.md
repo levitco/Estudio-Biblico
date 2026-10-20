@@ -1,0 +1,1 @@
+"9 Se enterarán los cananeos y todos los habitantes del país: se aliarán contra nosotros y borrarán nuestro nombre de la tierra. ¿Qué harás tú entonces por tu gran nombre?"" [[Jos 7,10]]

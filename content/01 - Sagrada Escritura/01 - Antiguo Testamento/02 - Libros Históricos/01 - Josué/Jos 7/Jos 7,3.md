@@ -1,0 +1,1 @@
+"3 Volvieron donde Josué y le dijeron: "Que no suba toda la gente; para atacar a Ay basta con que suban dos o tres mil hombres. No molestes a toda la gente haciéndolos subir hasta allí, porque ellos son pocos."" [[Jos 7,4]]
