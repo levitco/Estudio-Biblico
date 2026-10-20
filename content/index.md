@@ -1,5 +1,5 @@
 ---
-title: '"Tu palabra es una lámpara a mis pies, y una luz en mi camino." (Salmo 119, 105)'
+title: '"Leer la Biblia te hace protestante; entenderla te hace católico."'
 ---
 # Bienvenidos al Estudio Bíblico
 

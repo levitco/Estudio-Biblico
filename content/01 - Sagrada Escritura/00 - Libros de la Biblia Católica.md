@@ -38,7 +38,7 @@ _(Llamados también la Ley o Torá)_ [[1](https://es.catholic.net/op/articulos/7
 - **Cantar de los Cantares** (Cnt)
 - **Sabiduría** (Sab) _(deuterocanónico)_
 - **Eclesiástico / Sirácida** (Eclo) _(deuterocanónico)_ 
-- 
+ 
 **4. Libros Proféticos (18 libros)** 
 
 - **Profetas mayores:**  
