@@ -8,4 +8,4 @@ Sección dedicada a la defensa de la fe católica, teología, exégesis bíblica
 
 
 
-⬅️ **[[01 - Índice Artículos|Volver al Índice Maestro de Artículos]]**
+⬅️ **[[00 - Índice Artículos|Volver al Índice Maestro de Artículos]]**

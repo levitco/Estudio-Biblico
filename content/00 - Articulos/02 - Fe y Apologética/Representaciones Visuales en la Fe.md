@@ -167,4 +167,4 @@ A fin de cuentas, el Creador en persona dispuso en varias ocasiones la manufactu
 #Articulo #Fe
 ## «Padre, cuídame; Jesús, perdóname; Espíritu Santo, guíame.»
 
-⬅️ **[[01 - Índice Artículos|Volver al Índice Maestro de Artículos]]**
+⬅️ **[[00 - Índice Artículos|Volver al Índice Maestro de Artículos]]**

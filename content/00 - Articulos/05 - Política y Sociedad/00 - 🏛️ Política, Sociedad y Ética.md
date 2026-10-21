@@ -9,4 +9,4 @@ Reflexiones sobre la Doctrina Social de la Iglesia, filosofía política, bioét
 
 
 
-⬅️ **[[01 - Índice Artículos|Volver al Índice Maestro de Artículos]]**
+⬅️ **[[00 - Índice Artículos|Volver al Índice Maestro de Artículos]]**

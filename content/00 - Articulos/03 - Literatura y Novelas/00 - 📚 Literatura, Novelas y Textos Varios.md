@@ -8,4 +8,4 @@ Espacio dedicado a la creación narrativa, proyectos de ficción, ensayos litera
 *(Próximamente se añadirán historias y proyectos narrativos)*
 
 
-⬅️ **[[01 - Índice Artículos|Volver al Índice Maestro de Artículos]]**
+⬅️ **[[00 - Índice Artículos|Volver al Índice Maestro de Artículos]]**

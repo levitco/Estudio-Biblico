@@ -9,4 +9,4 @@ Artículos sobre la historia de la Iglesia, los Padres de la Iglesia, filosofía
 
 
 
-⬅️ **[[01 - Índice Artículos|Volver al Índice Maestro de Artículos]]**
+⬅️ **[[00 - Índice Artículos|Volver al Índice Maestro de Artículos]]**
