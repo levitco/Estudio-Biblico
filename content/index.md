@@ -17,7 +17,7 @@ Aquí puedes explorar los temas y ensayos más recientes publicados en el sitio:
 ---
 
 ## 📌 Accesos Rápidos
-- 📖 [[00 - Libros de la Biblia Católica|Índice de la Sagrada Escritura]]
+- 📖 [[01 - Libros de la Biblia Católica|Índice de la Sagrada Escritura]]
 - 🏛️ [[01 - Magisterio y Encíclicas|Documentos del Magisterio]]
 - 🔍 [[01 - Índice del Diccionario|Diccionario Teológico]]
 - ☕ [[Donaciones|Apoyar este proyecto]]
