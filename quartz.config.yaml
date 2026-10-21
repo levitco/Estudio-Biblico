@@ -176,8 +176,8 @@ plugins:
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
-      position: afterBody
-      priority: 10
+      position: beforeBody
+      priority: 25
   - source: "@quartz-community/article-title"
     enabled: true
     layout:
