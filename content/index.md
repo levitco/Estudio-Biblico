@@ -1,8 +1,6 @@
 ---
-title: '"Leer la Biblia te hace protestante; entenderla te hace católico."'
+title: Página Principal
 ---
-# Bienvenidos al Estudio Bíblico
-
 > [!info] 🗺️ Guía de Uso y Aclaraciones
 > Si es tu primera vez visitando este sitio, te sugiero leer la [[Guía de Navegación y Aclaraciones]] para conocer cómo está estructurado este cuaderno de estudio y su fundamento doctrinal.
 
@@ -21,3 +19,6 @@ Aquí puedes explorar los temas y ensayos más recientes publicados en el sitio:
 - 🏛️ [[01 - Magisterio y Encíclicas|Documentos del Magisterio]]
 - 🔍 [[01 - Índice del Diccionario|Diccionario Teológico]]
 - ☕ [[Donaciones|Apoyar este proyecto]]
+
+
+### "Leer la Biblia te hace protestante; entenderla te hace católico."

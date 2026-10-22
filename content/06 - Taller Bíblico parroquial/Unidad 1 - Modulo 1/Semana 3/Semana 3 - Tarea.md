@@ -1,0 +1,26 @@
+####  Preguntas de Reflexión
+
+**1: ¿En qué sentido todo acontecimiento es Palabra de Dios, pero no necesariamente voluntad suya?**
+
+ Todo **Acontecimiento** es Palabra de Dios porque nada ocurre en el universo sin que su Palabra sustentadora lo permita dentro del orden temporal: "**¿Quién será aquel que diga que algo sucede, si el Señor no lo ha mandado?**" [[Lam 3,37|Lamentaciones 3,37]]. Sin embargo, no todo suceso es el deseo directo de Dios, sino que muchos hechos corresponden a su **Voluntad permisiva**, mediante la cual tolera que las cosas pasen —incluyendo el mal, los accidentes o la injusticia— respetando el **Libre albedrío** de las personas y las leyes de la naturaleza. Dios no causa la tragedia ni la aprueba, pero al permitir que suceda, utiliza el acontecimiento como una voz que interpela nuestra **Actitud interior** y se convierte en un **Llamado a actuar** y a la conversión: **"4 O aquellos dieciocho sobre los que se desplomó la torre de Siloé y los mató, ¿pensáis que eran más culpables que los demás hombres que habitaban en Jerusalén? 5 No, os lo aseguro; y si no os convertís, todos pereceréis del mismo modo."** [[Lc 13,4-5|Lucas 13,4-5]].
+
+**2: ¿En qué sentido Dios nos habla a través de los hermanos?**
+
+Dios trasciende el rito externo encarnando su voz en el **Prójimo** sufriente. En el Antiguo Testamento, el Señor rechaza la liturgia vacía y exige la justicia comunitaria hacia el indigente [[Is 58,6-7|Isaías 58,6-7]]. En la **Tradición patrística**, el necesitado actúa como [[Sacramento del Hermano (Tradición Patrística)|**Sacramento del hermano**]], donde la caridad transforma la **Actitud interior** en culto verdadero. Jesús culmina esta **Revelación** en el **Juicio final**, identificándose plenamente con el marginado: "**En verdad os digo que cuanto hicisteis a uno de estos hermanos míos más pequeños, a mí me lo hicisteis.**" [[Mt 25,40|Mateo 25,40]] Así, el amor al hermano visible se convierte en la prueba tangible y real del amor a Dios [[1 Jn 4,20|1 Juan 4,20]].
+
+**3: ¿Qué repercusiones tuvo el Concilio Vaticano II en la vida de la Iglesia?**
+
+El **Concilio Vaticano II** puso la **Palabra de Dios** al alcance directo de todos los fieles. Con el documento **Dei Verbum**, la **Revelación** se reconoció como un diálogo vivo entre Dios y la humanidad. A su vez, **Sacrosanctum Concilium** promovió la liturgia en el propio idioma de cada pueblo, superando el rito externo para cultivar una genuina **Actitud interior**. Esta renovación fortaleció la **Transmisión eclesial** del Evangelio: "**La palabra de Cristo habite entre vosotros con toda su riqueza...**" [[Col 3,16|Colosenses 3,16]].
+
+#### Lecturas Selectas
+
+##### Dios nos habla a través de la creación, los acontecimientos y los hermanos
+* Mt 25,40; Lc 10,29-37
+la voz del Señor adquiere un rostro concreto en los **Hermanos**, de modo especial en los más necesitados. Superando la piedad de mera observancia formal y culto externo, la **Parábola del buen samaritano** revela que la auténtica actitud interior ante Dios exige hacerse prójimo mediante la misericordia [[Lc 10,33-37|Lucas 10,33-37]]. Esta teología del encuentro culmina en el **Juicio final**, donde Cristo identifica de forma absoluta su presencia con el sufriente: "**En verdad os digo que cuanto hicisteis a uno de estos hermanos míos más pequeños, a mí me lo hicisteis.**" [[Mt 25,40|Mateo 25,40]]
+##### Diversas actitudes ante la Palabra de Dios
+* Jr 7,23-28
+El diseño original de Dios era un culto sencillo y relacional. Un Rito Familiar  esto se confirma en la Pascua previa al [[Éx 12|Éxodo 12:1-14]] , se reafirmo en el Sinaí **"Escuchad mi voz, y yo seré vuestro Dios y vosotros seréis mi pueblo, …"">>** [[Jr 7,23|Jeremías 7,23]] después que el pueblo de Israel tras la apostasía de el **Becerro de oro** [[Éx 32|Éxodo 32]] para frenar la inclinación idolatra de el pueblo y ayudarles a no pecar, Dios regulo los sacrificios en el Tabernáculo **"En adelante no seguirán sacrificando sus sacrificios a los sátiros tras los cuales se prostituían. …"** [[Lv 17,7|Levítico 17,7]] Ademas ritos visuales diarios **"Llevaréis, pues, flecos para que, cuando los veáis, os acordéis de todos los preceptos de Yahvé. Así los cumpliréis y no seguiréis los caprichos de vuestros corazones y de vuestros ojos, …"** [[Nm 15,39|Números 15,39-40]] . el Señor nos recuerda una vez más esta prioridad cuando Jesús afirma que amar a Dios y al prójimo **"… vale más que todos los holocaustos y sacrificios."** [[Mc 12,33|Marcos 12,33]] 
+##### Escuchar la Palabra y ponerla en práctica
+* Lc 11,27-28; Hch 4,18-20
+la **Verdadera dicha** radica en la obediencia interior a la **Revelación**, tal como responde Jesús ante el elogio del pueblo: "**Dichosos más bien los que oyen la palabra de Dios y la guardan.**" [[Lc 11,28|Lucas 11,28]]. Esta actitud de escucha fiel se traduce en una urgencia evangelizadora dentro de la **Transmisión eclesial**, impulsando a la comunidad a la proclamación valiente (**[[Parrhesía - παρρησία]]**). Frente a las presiones o prohibiciones del entorno que intentan silenciar el Evangelio, los apóstoles Pedro y Juan afirman la primacía del mandato divino por encima de las autoridades humanas: "**20 No podemos nosotros dejar de hablar de lo que hemos visto y oído.**" [[Hch 4,20|Hechos 4,20]]
+  -

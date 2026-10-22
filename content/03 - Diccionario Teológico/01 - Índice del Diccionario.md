@@ -1,9 +1,9 @@
 # Diccionario Teológico Interconectado
 
 
-### Griego
-
 #### P
 * [[Parusía - παρουσίαν]]
-
+* [[Parrhesía - παρρησία]]
+#### S
+* [[Sacramento del Hermano (Tradición Patrística)]]
 

@@ -3,7 +3,7 @@
 Palabra de origen griego que significa "presencia" o "llegada". En la teología católica, se refiere a la Segunda Venida gloriosa de Jesucristo al final de los tiempos para juzgar a vivos y muertos, tal como lo profesamos en el Credo.
 
 ## En la Sagrada Escritura
-- San Pablo la describe vívidamente en [[1Ts 4,15]], asegurando que Cristo descenderá del cielo con voz de mando y trompeta de Dios.
+- San Pablo la describe vívidamente en [[1 Ts 4,15]], asegurando que Cristo descenderá del cielo con voz de mando y trompeta de Dios.
 
 > [!Griego - Koine] 
 >15 **Τοῦτο** _Touto_ - **γὰρ** _gar_ - **ὑμῖν** _hymin_ a ustedes **λέγομεν** _legomen_ decimos **ἐν** _en_ como **λόγῳ** _logō_ palabra **Κυρίου** _Kyriou_ del Señor , **ὅτι** _hoti_ que **ἡμεῖς** _hēmeis_ Nosotros **οἱ** _hoi_ los que **ζῶντες** _zōntes_ vivamos **οἱ** _hoi_ - **περιλειπόμενοι** _perileipomenoi_ los que quedemos **εἰς** _eis_ hasta **τὴν** _tēn_ la ==🟡**παρουσίαν** _parousian_== Venida **τοῦ** _tou_ del **Κυρίου** _Kyriou_ Señor **οὐ** _ou_ vvv **μὴ** _mē_ vvv **φθάσωμεν** _phthasōmen_ no nos adelantaremos **τοὺς** _tous_ a los que **κοιμηθέντας** _koimēthentas_ murieron ." 
@@ -22,3 +22,4 @@ Palabra de origen griego que significa "presencia" o "llegada". En la teología 
 > 
 >[674]. La venida del Mesías glorioso, en un momento determinado de la historia (cf. Rm 11, 31), se vincula al reconocimiento del Mesías por "todo Israel" (Rm 11,26; Mt 23,39) del que "una parte está endurecida" (Rm 11, 25) en "la incredulidad" (Rm 11, 20) respecto a Jesús. San Pedro dice a los judíos de Jerusalén después de Pentecostés: "Arrepentíos, pues, y convertíos para que vuestros pecados sean borrados, a fin de que del Señor venga el tiempo de la consolación y envíe al Cristo que os había sido destinado, a Jesús, a quien debe retener el cielo hasta el tiempo de la restauración universal, de que Dios habló por boca de sus profetas" (Hch 3, 19-21). Y san Pablo le hace eco: "si su reprobación ha sido la reconciliación del mundo ¿qué será su readmisión sino una resurrección de entre los muertos?" (Rm 11, 5). La entrada de "la plenitud de los judíos" (Rm 11, 12) en la salvación mesiánica, a continuación de "la plenitud de los gentiles" (Rm 11, 25; cf. Lc 21, 24), hará al pueblo de Dios "llegar a la plenitud de Cristo" (Ef 4, 13) en la cual "Dios será todo en nosotros" (1 Co 15, 28).
 
+[[01 - Índice del Diccionario | ↩️Volver al Diccionario]]
