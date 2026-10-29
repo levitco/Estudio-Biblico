@@ -1,5 +1,5 @@
 
-####  Preguntas de Reflexión #Pendiente
+####  Preguntas de Reflexión 
 
 **1: ¿Qué actitudes hay que tener para aprender a discernir los signos de los tiempos?**
 
@@ -17,7 +17,7 @@ La Iglesia motiva la lectura asidua de la Escritura porque en los Libros Sagrado
 
 ##### Escuchar la Palabra de Dios y ponerla en práctica
 * Lc 8,4-8; Mc 4,10-20
-* 
+
 La eficacia de la **Palabra de Dios** no depende de la semilla, sino de la **Actitud interior** de quien la recibe. En la **Parábola del sembrador**, Cristo revela que la acogida de la **Revelación** exige superar la indiferencia del camino, la inconstancia de la tierra pedregosa y las distracciones de los espinos [[Mc 4,14|Marcos 4,14-19]]. Frente al mero cumplimiento ritual o la curiosidad superficial, el verdadero creyente actúa como la buena tierra [[Lc 8,8|Lucas 8,8]]: escucha con fe, echa raíces y pone en práctica lo oído para dar un **Fruto espiritual** abundante: "**Y estos son los que fueron sembrados en buena tierra: los que oyen la palabra y la reciben, y dan fruto a treinta, a sesenta, y a ciento por uno.**" [[Mc 4,20|Marcos 4,20]]
 
 ##### Leer Dei Verbum, capitulo VI «La Sagrada Escritura en la vida de la Iglesia» , números 21 al 26
