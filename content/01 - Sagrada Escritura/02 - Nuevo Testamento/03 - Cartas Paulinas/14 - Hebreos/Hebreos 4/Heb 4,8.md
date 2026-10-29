@@ -1,0 +1,1 @@
+"8 Porque si Josué les hubiera dado el descanso, no se hablaría más tarde de otro día." [[Heb 4,9]]

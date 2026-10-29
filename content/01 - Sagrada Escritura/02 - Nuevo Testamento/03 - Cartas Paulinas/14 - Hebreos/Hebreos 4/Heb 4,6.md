@@ -1,0 +1,1 @@
+"6 Así pues, ya que quedan algunos por entrar en él, y que los primeros en recibir la buena nueva no entraron a causa de su desobediencia," [[Heb 4,7]]

@@ -1,0 +1,1 @@
+"9 Por tanto queda un descanso sabático para el pueblo de Dios." [[Heb 4,10]]

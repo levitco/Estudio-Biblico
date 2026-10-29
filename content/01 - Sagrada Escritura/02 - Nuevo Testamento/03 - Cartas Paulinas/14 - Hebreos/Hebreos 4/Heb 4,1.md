@@ -1,0 +1,1 @@
+"1 Temamos, pues, no sea que, permaneciendo aún en vigor la promesa de entrar en su descanso, alguno de vosotros resulte que llegue rezagado." [[Heb 4,2]]

@@ -1,0 +1,1 @@
+"4 pues está dicho en alguna parte acerca del día séptimo: Y descansó Dios el día séptimo de todas sus obras." [[Heb 4,5]]

@@ -1,0 +1,1 @@
+"3 De hecho, hemos entrado en el descanso los que hemos creído, según está dicho: Por eso juré con ira: ¡No entrarán en mi descanso! Y eso que las obras de Dios estaban terminadas desde la creación del mundo," [[Heb 4,4]]

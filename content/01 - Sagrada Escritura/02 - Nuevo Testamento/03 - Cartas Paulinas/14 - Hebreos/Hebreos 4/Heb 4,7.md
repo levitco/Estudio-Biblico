@@ -1,0 +1,1 @@
+"7 señala otro día, hoy, diciendo por David mucho después en el lugar citado: Si hoy escucháis su voz, no endurezcáis vuestros corazones..." [[Heb 4,8]]

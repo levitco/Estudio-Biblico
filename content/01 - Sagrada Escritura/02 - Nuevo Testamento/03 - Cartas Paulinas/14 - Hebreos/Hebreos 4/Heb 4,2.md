@@ -1,0 +1,1 @@
+"2 También nosotros hemos recibido la buena nueva, lo mismo que ellos. Pero la palabra que oyeron no les aprovechó, pues no se compenetraron con la fe de los que la escucharon." [[Heb 4,3]]
