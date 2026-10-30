@@ -111,7 +111,7 @@ En el texto hebreo, el verbo **"bendiga" (*yebarek*) está estrictamente en núm
 
 
 
-## 👁️ La Palabra de Yahvé como Persona Visible y Táctil
+## La Palabra de Yahvé como Persona Visible y Táctil
 
 Frecuentemente se asume que la expresión "la Palabra del Señor" en el Antiguo Testamento era únicamente un sonido auditivo o una inspiración mental. Sin embargo, numerosos pasajes la describen como una figura antropomórfica visible:
 
@@ -132,7 +132,7 @@ La Palabra del Señor en el Antiguo Testamento es una figura con corporeidad que
 
 
 
-## 🌩️ El "Jinete de las Nubes": La Expropiación Teológica de Baal
+## El "Jinete de las Nubes": La Expropiación Teológica de Baal
 
 En la literatura ugarítica y cananea (como el *Ciclo de Baal* hallado en Ras Shamra), el dios Baal era denominado constantemente como el *Rider of the Clouds* ("El que cabalga sobre las nubes"), debido a su condición de dios de la tormenta y la lluvia.
 
@@ -151,9 +151,7 @@ La quinta y más decisiva vez que este título aparece en la Biblia Hebrea no se
 
 En la escena de Daniel 7 conviven dos figuras divinas: el Anciano de Días (Yahvé invisible) y el Hijo del Hombre (el Jinete de las Nubes, Yahvé en forma humana que recibe la adoración universal).
 
-
-
-## ✝️ El Cumplimiento en el Nuevo Testamento
+## El Cumplimiento en el Nuevo Testamento
 
 Cuando los autores del Nuevo Testamento presentaron a Jesucristo, no inventaron una teología nueva; utilizaron el marco conceptual que el Antiguo Testamento ya les había legado:
 
@@ -163,10 +161,7 @@ Cuando los autores del Nuevo Testamento presentaron a Jesucristo, no inventaron 
    > *«Veréis al Hijo del Hombre sentado a la diestra del poder de Dios, y viniendo en las nubes del cielo.»*
 
 Caifás entendió de inmediato el impacto teológico de la respuesta: Jesús no estaba declarando ser un profeta o un ángel creado; se estaba proclamando a sí mismo como el **Jinete de las Nubes**, el segundo Yahvé de Daniel 7. Por esta razón, el Sumo Sacerdote rasgó sus vestiduras y lo condenó a muerte bajo la acusación de blasfemia.
-
-
-
-## 📌 Conclusión Apologética
+## Conclusión 
 
 La afirmación de que la divinidad de Jesucristo fue un invento dogmático creado por los concilios eclesiásticos del siglo IV colapsa ante la evidencia bíblica e histórica. 
 
@@ -176,5 +171,5 @@ La creencia en un Dios que posee una naturaleza invisible y una manifestación h
 
 ### 🔗 Enlaces Relacionados
 * [[00 - Libros de la Biblia Católica|Sagrada Escritura]]
-* [[01 - Índice del Diccionario|Diccionario Teológico]]
+* [[00 - Índice del Diccionario|Diccionario Teológico]]
 * [[02 - Fe y Apologética|Fe y Apologética]]

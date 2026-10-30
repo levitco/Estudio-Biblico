@@ -24,4 +24,4 @@ Término de origen griego (**παρρησία**, *parrhēsía*, derivado de *pā
 > 31 ...**καὶ** *kai* y - **ἐλάλουν** *elaloun* hablaban - **τὸν** *ton* la - **λόγον** *logon* palabra - **τοῦ** *tou* de - **Θεοῦ** *Theou* Dios - **μετὰ** *meta* con - **παρρησίας** *parrhēsias* **valentía / franqueza** .
 
 
-[[01 - Índice del Diccionario | ↩️Volver al Diccionario]]
+[[00 - Índice del Diccionario| ↩️Volver al Diccionario]]

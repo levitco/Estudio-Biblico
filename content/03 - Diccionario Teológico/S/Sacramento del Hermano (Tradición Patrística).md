@@ -8,7 +8,7 @@ Dios trasciende el rito externo encarnando su voz en el prójimo sufriente. En l
 ### 1. Rechazo de la liturgia vacía (Antiguo Testamento)
 El Señor exige la justicia comunitaria hacia el indigente por encima del ritualismo formal:
 
-> [!quote] [[Is 58,6-7|Isaías 58, 6-7]]
+> [!quote] [[Is 58,6|Isaías 58, 6-7]]
 > «¿No es más bien este el ayuno que yo quiero: soltar las cadenas injustas, desatar las ataduras del yugo, dejar libres a los oprimidos y romper todo yugo? ¿No es compartir tu pan con el hambriento y albergar a los pobres sin techo?»
 
 ### 2. Identificación plena de Cristo con el marginado (Nuevo Testamento)
@@ -30,7 +30,7 @@ Escuchar y amar al hermano es la manifestación visible del amor a Dios:
 Los Padres de la Iglesia unieron profundamente el misterio del altar de la iglesia con el «altar del pobre» en la calle:
 
 ### 1. San Juan Crisóstomo (347–407 d.C.)
-* **Obra:** *Homilías sobre el Evangelio de San Mateo* (Homilía 50, 3-4).
+* **Obra:** *Homilías sobre el Evangelio de San Mateo* ([[Homilía 50 sobre Mateo|Homilía 50, 3-4]]).
 * **Enseñanza:** Compara el altar del templo con el "altar del pobre".
 > *"¿Deseas honrar el cuerpo de Cristo? No lo desprecies cuando lo veas desnudo... El mismo que dijo: 'Esto es mi cuerpo', es el mismo que dijo: 'Me visteis hambriento y no me disteis de comer'. ¿De qué sirve llenar la mesa de Cristo con cálices de oro si Él se muere de hambre afuera?"*
 
@@ -55,4 +55,4 @@ Los Padres de la Iglesia unieron profundamente el misterio del altar de la igles
 - **San Gregorio de Nisa:** *De pauperibus amandis* (Homilía 1).
 - **San Basilio Magno:** *Homilía VI sobre San Lucas 12, 18*.
 
-[[01 - Índice del Diccionario | ↩️Volver al Diccionario]]
+[[00 - Índice del Diccionario| ↩️Volver al Diccionario]]
