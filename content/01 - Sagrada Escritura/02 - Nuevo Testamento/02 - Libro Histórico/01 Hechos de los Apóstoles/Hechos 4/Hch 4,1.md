@@ -1,0 +1,1 @@
+"1 Estaban hablando al pueblo, cuando se les presentaron los sacerdotes, el jefe de la guardia del Templo y los saduceos," [[Hch 4,2]]

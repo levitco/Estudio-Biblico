@@ -1,0 +1,1 @@
+"9 No os mintáis unos a otros, pues despojados del hombre viejo con sus obras," [[Col 3,10]]

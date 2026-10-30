@@ -1,0 +1,1 @@
+"3 Porque habéis muerto, y vuestra vida está oculta con Cristo en Dios." [[Col 3,4]]

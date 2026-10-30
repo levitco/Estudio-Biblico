@@ -1,0 +1,1 @@
+"9 puesto que con motivo de una obra buena realizada en un enfermo se nos interroga hoy por quién ha sido éste curado," [[Hch 4,10]]

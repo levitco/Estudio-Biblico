@@ -1,0 +1,1 @@
+"2 Aspirad a las cosas de arriba, no a las de la tierra." [[Col 3,3]]

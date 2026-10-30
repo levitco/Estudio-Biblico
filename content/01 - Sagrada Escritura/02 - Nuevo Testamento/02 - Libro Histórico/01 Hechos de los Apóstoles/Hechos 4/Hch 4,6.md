@@ -1,0 +1,1 @@
+"6 el sumo sacerdote Anás, Caifás, Jonatán, Alejandro y cuantos eran de la familia de sumos sacerdotes." [[Hch 4,7]]

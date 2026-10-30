@@ -1,0 +1,1 @@
+"4 Sin embargo, muchos de los que habían oído el discurso creyeron; y el número, contando sólo los hombres, llegó a unos cinco mil." [[Hch 4,5]]

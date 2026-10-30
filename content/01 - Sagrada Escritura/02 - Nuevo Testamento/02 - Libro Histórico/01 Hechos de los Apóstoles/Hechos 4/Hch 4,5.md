@@ -1,0 +1,1 @@
+"5 Al día siguiente se reunieron en Jerusalén sus jefes, los ancianos y los escribas," [[Hch 4,6]]

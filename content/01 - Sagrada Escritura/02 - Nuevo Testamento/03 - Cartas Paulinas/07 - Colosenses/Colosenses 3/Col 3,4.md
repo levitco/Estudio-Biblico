@@ -1,0 +1,1 @@
+"4 Cuando aparezca Cristo, vida vuestra, entonces también vosotros apareceréis gloriosos con él." [[Col 3,5]]

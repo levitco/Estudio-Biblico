@@ -1,0 +1,1 @@
+"5 Por tanto, mortificad cuanto en vosotros es terreno: fornicación, impureza, pasiones, malos deseos y la codicia, que es una idolatría," [[Col 3,6]]

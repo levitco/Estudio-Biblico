@@ -1,0 +1,1 @@
+"7 y que también vosotros practicasteis en otro tiempo, cuando vivíais de ese modo." [[Col 3,8]]

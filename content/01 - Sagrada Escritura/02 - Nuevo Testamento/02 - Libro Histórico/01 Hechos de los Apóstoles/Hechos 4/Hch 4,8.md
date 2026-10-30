@@ -1,0 +1,1 @@
+"8 Entonces Pedro, lleno del Espíritu Santo, les dijo: "Jefes del pueblo y ancianos," [[Hch 4,9]]

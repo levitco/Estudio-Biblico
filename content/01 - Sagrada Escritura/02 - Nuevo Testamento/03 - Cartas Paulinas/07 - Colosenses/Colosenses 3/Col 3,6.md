@@ -1,0 +1,1 @@
+"6 todo lo cual atrae la ira de Dios sobre los rebeldes," [[Col 3,7]]

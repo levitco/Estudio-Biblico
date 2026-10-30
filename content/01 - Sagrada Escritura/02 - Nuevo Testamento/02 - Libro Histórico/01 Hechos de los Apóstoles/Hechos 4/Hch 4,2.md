@@ -1,0 +1,1 @@
+"2 indignados porque enseñaban al pueblo y anunciaban en la persona de Jesús la resurrección de los muertos." [[Hch 4,3]]

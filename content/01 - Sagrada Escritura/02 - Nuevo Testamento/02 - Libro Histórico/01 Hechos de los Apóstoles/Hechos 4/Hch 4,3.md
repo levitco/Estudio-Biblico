@@ -1,0 +1,1 @@
+"3 Les echaron mano y les pusieron bajo custodia hasta el día siguiente, pues caía ya la tarde." [[Hch 4,4]]

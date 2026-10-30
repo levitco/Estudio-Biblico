@@ -1,0 +1,1 @@
+"8 Mas ahora, desechad también vosotros todo esto: cólera, ira, maldad, maledicencia y obscenidades, lejos de vuestra boca." [[Col 3,9]]

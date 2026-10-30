@@ -1,0 +1,1 @@
+"7 Y colocándolos en medio les preguntaban: "¿Con qué poder o en nombre de quién habéis hecho eso vosotros?"" [[Hch 4,8]]
