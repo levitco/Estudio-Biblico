@@ -1,5 +1,7 @@
 **Mateo 14:23-24.**
 
+#Pendiente 
+
 _Y habiendo despedido a la multitud, subió al monte a [orar](https://www.newadvent.org/cathen/12345b.htm) a solas ; y al anochecer, estaba allí solo. Pero la barca ya estaba en medio del mar, azotada por las olas,_ _porque el viento era contrario._
 
 ¿Con qué propósito sube a la montaña? Para enseñarnos que la soledad y el retiro son [buenos](https://www.newadvent.org/cathen/06636b.htm) para [orar](https://www.newadvent.org/cathen/12345b.htm) a [Dios](https://www.newadvent.org/cathen/06608a.htm) . Con esta perspectiva, vemos que se retira continuamente al desierto, donde a menudo pasa la noche entera en [oración](https://www.newadvent.org/cathen/12345b.htm) , enseñándonos a buscar con ahínco la quietud en nuestras [oraciones](https://www.newadvent.org/cathen/12345b.htm) , según lo permitan el tiempo y el lugar. Porque el desierto es la madre de la quietud; es un remanso de paz y un refugio que nos libra de toda tribulación.
