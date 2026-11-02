@@ -1,0 +1,1 @@
+"9 En cambio el arcángel Miguel, cuando altercaba con el diablo disputándose el cuerpo de Moisés, no se atrevió a pronunciar contra él juicio injurioso, sino que dijo: "Que te castigue el Señor"." [[Jud 1,10]]

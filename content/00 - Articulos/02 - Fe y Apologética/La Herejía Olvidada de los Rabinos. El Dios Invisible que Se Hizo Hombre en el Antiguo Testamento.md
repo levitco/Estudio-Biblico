@@ -1,4 +1,4 @@
-#Pendiente 
+
 
 Es un lugar común en documentales populares, debates de internet y aulas universitarias la afirmación de que la divinidad de Jesucristo fue una invención tardía de la Iglesia, estructurada siglos después de los acontecimientos por teólogos influenciados por la filosofía helenística. Críticos contemporáneos como Bart Ehrman, así como corrientes teológicas como el judaísmo rabínico, los Testigos de Jehová, los Unitarios o los Pentecostales del Nombre ("Solo Jesús"), sostienen que existe una brecha insalvable entre el "Jesús histórico" y el "Cristo de la fe", argumentando que la noción de una Pluralidad Divina (la Trinidad) es un concepto totalmente ajeno a la Biblia Hebrea.
 
@@ -13,7 +13,7 @@ Esta realidad fue documentada detalladamente por el destacado académico judío 
 > **Referencia Bibliográfica:**
 > Segal, Alan F. *[[Two Powers in Heaven_ Early Rab - Segal.pdf| Two Powers in Heaven:]]  Early Rabbinic Reports About Christianity and Gnosticism*. Brill, 1977 (Reimpresión: Leyden, 2002).
 
-Segal, quien fuera profesor de literatura rabínica en la Universidad Brandeis, analizó los textos del Talmud y el Midrash, demostrando que la enseñanza de las **"Dos Potencias en el Cielo"** (*Two Powers in Heaven*) «la creencia en un Yahvé invisible e incomparable en los cielos y un Yahvé visible que descendía en forma humana o angelical a la tierra  formó parte de la teología judía aceptada hasta el siglo II d.C. La razón por la cual el rabinato declaró esta doctrina como "herejía" en el siglo II» no fue por influencia pagana, sino como una medida defensiva directa para frenar el imparable avance de la Cristología cristiana.
+Segal, quien fuera profesor de literatura rabínica en la Universidad Brandeis, analizó los textos del [[Talmud - תַּלְמוּד]] y el [[Midrash - מִדְרָשׁ]], demostrando que la enseñanza de las **"Dos Potencias en el Cielo"** (*Two Powers in Heaven*) «la creencia en un Yahvé invisible e incomparable en los cielos y un Yahvé visible que descendía en forma humana o angelical a la tierra  formó parte de la teología judía aceptada hasta el siglo II d.C. La razón por la cual el rabinato declaró esta doctrina como "herejía" en el siglo II» no fue por influencia pagana, sino como una medida defensiva directa para frenar el imparable avance de la Cristología cristiana.
 
 Del mismo modo, el influyente teólogo y erudito judío **Benjamin D. Sommer**, profesor en el *Jewish Theological Seminary*, señala:
 
@@ -27,7 +27,7 @@ El pilar de la fe judía se encuentra en el célebre pasaje de [[Dt 6,4|Deuteron
 
 > *«Escucha, Israel: Yahvé nuestro Dios es el único Yahvé.»*
 
-Este pasaje, conocido como el *Shemá*, constituye la confesión de fe más sagrada del judaísmo. Un judío del siglo I estaba dispuesto a sufrir el martirio antes que ofrecer sacrificios al Emperador romano o admitir a otra deidad. Sin embargo, fueron precisamente judíos piadosos y observantes del *Shemá* quienes escribieron textos como el Evangelio de San Juan:
+Este pasaje, conocido como el *[[Shemá Israel|Shemá]]*, constituye la confesión de fe más sagrada del judaísmo. Un judío del siglo I estaba dispuesto a sufrir el martirio antes que ofrecer sacrificios al Emperador romano o admitir a otra deidad. Sin embargo, fueron precisamente judíos piadosos y observantes del *Shemá* quienes escribieron textos como el Evangelio de San Juan:
 
 > *«En el principio existía la Palabra, y la Palabra estaba junto a Dios, y la Palabra era Dios.»* ([[Jn 1,1|Juan 1, 1]])
 > *«Y la Palabra se hizo carne, y puso su Morada entre nosotros...»* ([[Jn 1,14|Juan 1, 14]])
@@ -38,7 +38,7 @@ Este pasaje, conocido como el *Shemá*, constituye la confesión de fe más sagr
 
 ### 1. Las dos personas de Yahvé en la destrucción de Sodoma
 
-Un ejemplo claro de diferenciación personal dentro de la misma identidad divina ocurre durante el juicio sobre Sodoma y Gomorra en [[Gn 19,24|Génesis 19, 24]] (traducción del *Tanaj* de la *Jewish Publication Society*):
+Un ejemplo claro de diferenciación personal dentro de la misma identidad divina ocurre durante el juicio sobre Sodoma y Gomorra en [[Gn 19,24|Génesis 19, 24]] (traducción del *[[Tanaj - תָּנַ´ךְ]]* de la *Jewish Publication Society*):
 
 > *«Entonces Yahvé hizo llover sobre Sodoma y Gomorra azufre y fuego de parte de Yahvé desde los cielos.»*
 
@@ -61,7 +61,7 @@ Para la teología bíblica, el perdón de los pecados es una prerrogativa que le
 
 #### La Teología de *Hashem* (El Nombre como Persona)
 
-En el judaísmo y en el texto hebreo, la frase *Hashem* ("El Nombre") no se refiere a cuatro letras escritas en un papiro, sino a la Persona misma de Dios:
+En el judaísmo y en el texto hebreo, la frase *[[Hashem - הַשֵּׁם|Hashem]]* ("El Nombre") no se refiere a cuatro letras escritas en un papiro, sino a la Persona misma de Dios:
 
 1. **La morada del Nombre:** En [[Dt 12|Deuteronomio 12, 4-5]], Moisés mandó que el culto no se hiciera en cualquier lugar, sino en el sitio que Dios escogiera para *"establecer su Nombre allí"*. Esto no significaba escribir las letras YHWH en la fachada del Templo, sino que la Presencia real de Dios habitaría ese lugar.
 2. **El Nombre como protector:** En el [[Sal 20|Salmo 20, 1.7]] se lee: *«Que el Nombre del Dios de Jacob te proteja... Estos confían en carros y aquellos en caballos, mas nosotros en el Nombre de Yahvé nuestro Dios confiaremos.»* Los soldados israelitas no confiaban en cuatro consonantes gramaticales, sino en la persona viva de Yahvé.
@@ -88,13 +88,13 @@ El Ángel de Dios se identifica explícitamente a sí mismo como el Dios (*El*) 
 
 En [[Gn 48|Génesis 48, 15-16]], en su lecho de muerte, Jacob bendice a Efraín y Manasés mediante una oración poética estructurada en tres estrofas:
 
-1. *«El Dios (*Ha-Elohim*) en cuya presencia caminaron mis padres Abraham e Isaac...»*
+1. *«El Dios (*[[Ha-Elohim - הָאֱלֹהִים]]*) en cuya presencia caminaron mis padres Abraham e Isaac...»*
 2. *«El Dios (*Ha-Elohim*) que me ha pastoreado desde que existo hasta este día...»*
-3. *«El Ángel (*Ha-Malak*) que me redime de todo mal...»*
+3. *«El Ángel (*[[Ha-Malak - הַמַּלְאָךְ]]*) que me redime de todo mal...»*
 
 Al llegar a la clausula verbal de la bendición:
 
-> *«...**bendiga** (*yebarek*) a estos jóvenes.»*
+> *«...**bendiga** (*[[Yebarek - יְבָרֵךְ]]*) a estos jóvenes.»*
 
 En el texto hebreo, el verbo **"bendiga" (*yebarek*) está estrictamente en número SINGULAR**. Si el autor inspirado hubiera considerado que el Ángel era una criatura creada o un ser distinto a Dios, habría tenido que usar el verbo en plural ("*bendigan* a estos jóvenes"). Al utilizar el verbo singular, el texto bíblico iguala gramaticalmente a *Ha-Elohim* (Dios) con *Ha-Malak* (El Ángel). O el Ángel es Yahvé mismo en forma visible, o Yahvé es ese Ángel manifestado.
 ## La Palabra de Yahvé como Persona Visible y Táctil
@@ -133,9 +133,9 @@ En la escena de Daniel 7 conviven dos figuras divinas: el Anciano de Días (Yahv
 
 Cuando los autores del Nuevo Testamento presentaron a Jesucristo, no inventaron una teología nueva; utilizaron el marco conceptual que el Antiguo Testamento ya les había legado:
 
-1. **San Juan:** Identifica a Jesús como el Verbo (*Dabar* / *Logos*) que estaba con Dios y era Dios ([[Jn 1,1|Juan 1, 1]]), y afirma en la oración sacerdotal: *«He manifestado tu Nombre a los hombres... los he guardado en tu Nombre»* ([[Jn 17,6.11-12|Juan 17, 6.11-12]]). Jesús no vino a pronunciar fonéticamente un nombre de cuatro letras, sino a ser la encarnación viva del Nombre (*Hashem*).
-2. **San Judas:** En [[Jude 1,5|Judas 1, 5]] (según la variante textual mejor atestiguada en los manuscritos más antiguos como el Papiro 72 y el Códice Vaticano), el autor escribe: *«Jesús, habiendo salvado al pueblo sacándolo de la tierra de Egipto, después destruyó a los que no creyeron.»* San Judas identifica a Jesús con el Ángel de Yahvé que guió a Israel en el desierto.
-3. **El Juicio de Caifás:** Durante su juicio ante el Sanedrín en [[Mt 26,63-65|Mateo 26, 63-65]] y [[Mc 14,61-64|Marcos 14, 61-64]], cuando el Sumo Sacerdote le exige bajo juramento decir si Él es el Cristo, Jesús responde citando directamente [[Dn 7,13|Daniel 7, 13]] y el [[Sal 110,1|Salmo 110, 1]]:
+1. **San Juan:** Identifica a Jesús como el Verbo (*[[Dabar - דָּבָר|Dabar]]* / *[[Logos - λóγος|Logos]]*) que estaba con Dios y era Dios ([[Jn 1,1|Juan 1, 1]]), y afirma en la oración sacerdotal: *«He manifestado tu Nombre a los hombres... los he guardado en tu Nombre»* ([[Jn 17|Juan 17, 6.11-12]]). Jesús no vino a pronunciar fonéticamente un nombre de cuatro letras, sino a ser la encarnación viva del Nombre (*Hashem*).
+2. **San Judas:** En [[Jud 1,5|Judas 1, 5]] (según la variante textual mejor atestiguada en los manuscritos más antiguos como el Papiro 72 y el Códice Vaticano), el autor escribe: *«Jesús, habiendo salvado al pueblo sacándolo de la tierra de Egipto, después destruyó a los que no creyeron.»* San Judas identifica a Jesús con el Ángel de Yahvé que guio a Israel en el desierto.
+3. **El Juicio de Caifás:** Durante su juicio ante el Sanedrín en [[Mt 26|Mateo 26, 63-65]] y [[Mc 14|Marcos 14, 61-64]], cuando el Sumo Sacerdote le exige bajo juramento decir si Él es el Cristo, Jesús responde citando directamente [[Dn 7,13|Daniel 7, 13]] y el [[Sal 110,1|Salmo 110, 1]]:
    > *«Veréis al Hijo del Hombre sentado a la diestra del poder de Dios, y viniendo en las nubes del cielo.»*
 
 Caifás entendió de inmediato el impacto teológico de la respuesta: Jesús no estaba declarando ser un profeta o un ángel creado; se estaba proclamando a sí mismo como el **Jinete de las Nubes**, el segundo Yahvé de Daniel 7. Por esta razón, el Sumo Sacerdote rasgó sus vestiduras y lo condenó a muerte bajo la acusación de blasfemia.
@@ -145,12 +145,9 @@ La afirmación de que la divinidad de Jesucristo fue un invento dogmático cread
 
 La creencia en un Dios que posee una naturaleza invisible y una manifestación humana visible está grabada en la raíz misma del Antiguo Testamento. Los primeros cristianos, siendo judíos devotos, no abandonaron su monoteísmo al adorar a Jesucristo: reconocieron en el Maestro de Nazaret al mismo Ángel de la Zarza, a la Palabra hecha carne, al Nombre personificado y al Jinete de las Nubes que siempre había acompañado la historia de Israel.
 
+#Articulo #Fe
+
+## «Padre, cuídame; Jesús, perdóname; Espíritu Santo, guíame.»
 
 ⬅️ **[[00 - Índice Artículos|Volver al Índice Maestro de Artículos]]**
 
-filológico
-Shemá
-Teología
-Talmud
-Midrash
-Hashem

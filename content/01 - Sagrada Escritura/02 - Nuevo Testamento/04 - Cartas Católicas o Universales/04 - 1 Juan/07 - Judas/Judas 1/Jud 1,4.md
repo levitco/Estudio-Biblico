@@ -1,0 +1,1 @@
+"4 Porque se han introducido solapadamente algunos que hace tiempo la Escritura señaló ya para esta sentencia. Son impíos, que convierten en libertinaje la gracia de nuestro Dios y niegan al único Dueño y Señor nuestro Jesucristo." [[Jud 1,5]]

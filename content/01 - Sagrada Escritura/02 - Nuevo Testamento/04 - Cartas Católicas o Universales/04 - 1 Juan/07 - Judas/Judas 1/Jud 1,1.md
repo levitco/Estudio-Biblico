@@ -1,0 +1,1 @@
+"1 Judas, siervo de Jesucristo, hermano de Santiago, a los que han sido llamados, amados de Dios Padre y guardados para Jesucristo." [[Jud 1,2]]

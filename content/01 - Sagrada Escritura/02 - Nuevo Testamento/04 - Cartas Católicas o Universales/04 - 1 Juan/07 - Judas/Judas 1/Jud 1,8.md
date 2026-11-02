@@ -1,0 +1,1 @@
+"8 Igualmente éstos, a pesar de todo, alucinados en sus delirios, manchan la carne, desprecian al Señorío e injurian a las Glorias." [[Jud 1,9]]

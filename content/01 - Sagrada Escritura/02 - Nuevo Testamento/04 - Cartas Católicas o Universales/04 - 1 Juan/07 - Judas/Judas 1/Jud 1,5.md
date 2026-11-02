@@ -1,0 +1,1 @@
+"5 Quiero recordaros a vosotros, que ya habéis aprendido todo esto de una vez para siempre, que el Señor, habiendo librado al pueblo de la tierra de Egipto, destruyó después a los que no creyeron;" [[Jud 1,6]]

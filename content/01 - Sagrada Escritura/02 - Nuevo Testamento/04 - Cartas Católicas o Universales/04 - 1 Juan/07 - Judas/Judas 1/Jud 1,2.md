@@ -1,0 +1,1 @@
+"2 A vosotros, misericordia, paz y amor abundantes." [[Jud 1,3]]

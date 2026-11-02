@@ -1,0 +1,1 @@
+"7 Y lo mismo Sodoma y Gomorra y las ciudades vecinas, que como ellos fornicaron y se fueron tras una carne diferente, padeciendo la pena de un fuego eterno, sirven de ejemplo." [[Jud 1,8]]

@@ -1,0 +1,1 @@
+"6 y además que a los ángeles, que no mantuvieron su dignidad, sino que abandonaron su propia morada, los tiene guardados con ligaduras eternas bajo tinieblas para el juicio del gran Día." [[Jud 1,7]]

@@ -1,0 +1,1 @@
+"3 Queridos, tenía yo mucho empeño en escribiros acerca de nuestra común salvación y me he visto en la necesidad de hacerlo para exhortaros a combatir por la fe que ha sido transmitida a los santos de una vez para siempre." [[Jud 1,4]]

@@ -1,0 +1,9 @@
+El Shemá Israel (“Escucha, Israel”) se lee semanalmente en los servicios de la sinagoga judía y está compuesto por [[Dt 6|Deuteronomio 6,4-9]] y [[Dt 11|11,13-21]], y Números 15:37-41. La porción más famosa es Deuteronomio 6:4-9:
+
+> **4** «Escucha, Israel: El Señor nuestro Dios es un solo Señor. **5** Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y ​​con todas tus fuerzas. **6** Estas palabras que yo te mando hoy estarán sobre tu corazón. **7** Las enseñarás diligentemente a tus hijos, y hablarás de ellas cuando estés sentado en tu casa, y cuando andes por el camino, y cuando te acuestes, y cuando te levantes. **8** Las atarás como señal en tu mano, y serán como frontales entre tus ojos. **9** Las escribirás en los postes de las puertas de tu casa y en tus portones.
+
+Los católicos afirman con total convicción [[Dt 6|Deuteronomio 6,4-5]], porque su enseñanza es atemporal. Sin embargo, a partir del versículo 6, se afirman aspectos de la ley del Antiguo Pacto que ya no son vinculantes en el Nuevo Pacto, puesto que Jesús vino a cumplirla y, al hacerlo, la perfeccionó ([[Mt 5|Mateo 5,17-18]]). Esto incluye leyes litúrgicas y dietéticas que no obligan a los cristianos del Nuevo Pacto que, por ejemplo, celebran la Misa como cumplimiento de la Pascua ([[1 Co 11|1 Corintios 11,23-32]]; véase [[1 Co 5|1 Corintios 5,7]]) y ya no observan disciplinas cambiantes que consideraban impuros ciertos animales y, por lo tanto, no podían consumirse (véase [[Hch 10|Hechos 10,9-16]]).
+
+Por consiguiente, los católicos no pueden afirmar el Shemá incondicionalmente en su forma original y completa.
+
+[[00 - Índice del Diccionario| ↩️Volver al Diccionario]]

@@ -10,7 +10,11 @@ title: Página Principal
 
 Aquí puedes explorar los temas y ensayos más recientes publicados en el sitio:
 
-- ✍️ **[[Representaciones Visuales en la Fe]]** — Un análisis sobre el uso de imágenes sagradas, su fundamento en las Sagradas Escrituras
+
+- ✍️ [[La Herejía Olvidada de los Rabinos. El Dios Invisible que Se Hizo Hombre en el Antiguo Testamento]] -- Un análisis sobre el Dios invisible que se hizo hombre en el Antiguo Testamento y las raíces judías de la pluralidad divina.
+
+- ✍️ **[[Representaciones Visuales en la Fe]]** -- Un análisis sobre el uso de imágenes sagradas, su fundamento en las Sagradas Escrituras
+
 
 ---
 
