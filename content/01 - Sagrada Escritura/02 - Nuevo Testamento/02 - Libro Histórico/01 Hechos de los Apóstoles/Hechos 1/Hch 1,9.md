@@ -1,0 +1,1 @@
+"9 Y dicho esto, fue levantado en presencia de ellos, y una nube le ocultó a sus ojos." [[Hch 1,10]]

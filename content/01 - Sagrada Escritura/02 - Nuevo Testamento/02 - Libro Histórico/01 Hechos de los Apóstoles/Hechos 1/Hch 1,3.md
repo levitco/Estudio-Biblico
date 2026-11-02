@@ -1,0 +1,1 @@
+"3 A estos mismos, después de su pasión, se les presentó dándoles pruebas de que vivía, dejándose ver de ellos durante cuarenta días y hablándoles del Reino de Dios." [[Hch 1,4]]

@@ -1,0 +1,1 @@
+"8 al contrario, vosotros recibiréis una fuerza, cuando el Espíritu Santo venga sobre vosotros, y de este modo seréis mis testigos en Jerusalén, en toda Judea y Samaría, y hasta los confines de la tierra"." [[Hch 1,9]]

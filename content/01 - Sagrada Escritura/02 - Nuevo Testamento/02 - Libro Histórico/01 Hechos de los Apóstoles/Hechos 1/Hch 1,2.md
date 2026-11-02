@@ -1,0 +1,1 @@
+"2 hasta el día en que, después de haber dado instrucciones por medio del Espíritu Santo a los apóstoles que había elegido, fue levantado a lo alto." [[Hch 1,3]]

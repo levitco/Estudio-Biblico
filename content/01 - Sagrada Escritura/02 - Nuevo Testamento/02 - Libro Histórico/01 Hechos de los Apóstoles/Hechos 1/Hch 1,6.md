@@ -1,0 +1,1 @@
+"6 Ellos, en cambio, habiéndose reunido, le preguntaron: "Señor, ¿es en este momento cuando le vas a restablecer el Reino a Israel?"" [[Hch 1,7]]

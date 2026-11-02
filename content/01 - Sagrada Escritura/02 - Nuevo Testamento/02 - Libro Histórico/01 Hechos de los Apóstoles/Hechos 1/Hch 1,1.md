@@ -1,0 +1,1 @@
+"1 El primer libro lo dediqué, Teófilo, a todo lo que Jesús hizo y enseñó desde el principio" [[Hch 1,2]]

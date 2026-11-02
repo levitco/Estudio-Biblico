@@ -2,6 +2,9 @@
 
 #### D
 * [[Dabar - דָּבָר]]
+* [[Didaché - Διδαχή]]
+#### E
+* [[Episkopēn - ἐπισκοπήν]]
 #### F
 * [[filológico]]
 #### H
@@ -11,6 +14,7 @@
 #### L
 * [[Logos - λóγος]]
 #### M
+* [[Maranatha]]
 * [[Midrash - מִדְרָשׁ]]
 #### P
 * [[Parusía - παρουσίαν]]
@@ -18,6 +22,7 @@
 #### S
 * [[Sacramento del Hermano (Tradición Patrística)]]
 * [[Shemá Israel]]
+* [[Septuaginta - LXX]]
 #### T
 * [[Talmud - תַּלְמוּד]]
 * [[Tanaj - תָּנַ´ךְ]]

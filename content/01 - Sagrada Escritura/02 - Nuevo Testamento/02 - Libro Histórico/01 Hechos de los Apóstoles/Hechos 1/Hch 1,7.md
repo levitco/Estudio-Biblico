@@ -1,0 +1,1 @@
+"7 Él les contestó: "No es cosa vuestra conocer el tiempo y el momento que el Padre ha fijado con su propia autoridad;" [[Hch 1,8]]

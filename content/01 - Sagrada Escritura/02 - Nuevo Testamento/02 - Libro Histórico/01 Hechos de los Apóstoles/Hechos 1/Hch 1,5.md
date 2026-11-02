@@ -1,0 +1,1 @@
+"5 Porque Juan bautizó con agua, pero vosotros seréis bautizados con Espíritu Santo dentro de pocos días."" [[Hch 1,6]]

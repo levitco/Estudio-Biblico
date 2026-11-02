@@ -1,0 +1,1 @@
+"4 Mientras estaba comiendo con ellos, les ordenó: "No os vayáis de Jerusalén, sino aguardad la Promesa del Padre, que oísteis de mí:" [[Hch 1,5]]

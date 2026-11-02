@@ -5,32 +5,32 @@
 
 ###  **Sucesión Apostólica** 
 
-- **Sustento Bíblico:** Hechos 1:20-26 (La sustitución de Judas, donde se usa el término episkopēn / obispado, demostrando que el oficio apostólico continúa tras la muerte del titular). 2 Timoteo 2:2 ("Lo que has oído de mí ante muchos testigos, esto encarga a hombres fieles que sean idóneos para enseñar también a otros").
+- **Sustento Bíblico:** [[Hch 1|Hechos 1:20-26]] (La sustitución de Judas, donde se usa el término [[Episkopēn - ἐπισκοπήν]] / obispado, demostrando que el oficio apostólico continúa tras la muerte del titular). [[2 Tim 2,2|2 Timoteo 2,2]] ("Lo que has oído de mí ante muchos testigos, esto encarga a hombres fieles que sean idóneos para enseñar también a otros").
 - **Sustento de los Padres:** San Ireneo de Lyon (c. 130 – c. 202 d.C.) en su obra _Contra las Herejías_ (Libro III, 3, 1), quien desafió a los gnósticos pidiéndoles exhibir la lista de obispos que los conectara con los Apóstoles, y a San Clemente de Roma (m. 99 d.C.) en su _Carta a los Corintios_ (XLII-XLIV), quien en el año 96 d.C. declaró que los Apóstoles instituyeron sucesores previniendo las disputas sobre el ministerio.
 
 ### **Obispos / Sacerdocio**
 
-- **Sustento Bíblico:** Filipenses 1:1 (Mención explícita de obispos y diáconos). Tito 1:5 ("Por esta causa te dejé en Creta, para que corrigieses lo deficiente, y establecieses presbíteros por las ciudades"). La jerarquía tripartita (Obispos, Presbíteros, Diáconos) está plenamente definida en las pastorales.
+- **Sustento Bíblico:** [[Flp 1,1|Filipenses 1,1]] (Mención explícita de obispos y diáconos). [[Tit 1,5|Tito 1,5]] ("Por esta causa te dejé en Creta, para que corrigieses lo deficiente, y establecieses presbíteros por las ciudades"). La jerarquía tripartita (Obispos, Presbíteros, Diáconos) está plenamente definida en las pastorales.
 - **Sustento de los Padres:** Utiliza insistentemente a San Ignacio de Antioquía (c. 35 – c. 108 d.C.) en su _Carta a los Tralianos_ (3, 1), escrita en el año 107 d.C.: "Del mismo modo, que todos respeten a los diáconos como a Jesucristo, tal como deben respetar al obispo, que es una figura del Padre, y a los presbíteros como al concilio de Dios... Sin estos, no se puede hablar de Iglesia".
 
 ###  **Sagrada Tradición**
 
-- **Sustento Bíblico:** 2 Tesalonicenses 2:15 ("Así que, hermanos, estad firmes, y retened la doctrina que habéis aprendido, sea por palabra, o por carta nuestra"). 1 Corintios 11:2 ("Os alabo, hermanos, porque en todo os acordáis de mí, y retenéis las instrucciones tal como os las entregué").
+- **Sustento Bíblico:** [[2 Ts 2,15|2 Tesalonicenses 2,15]] ("Así que, hermanos, estad firmes, y retened la doctrina que habéis aprendido, sea por palabra, o por carta nuestra"). [[1 Co 11,2|1 Corintios 11,2]] ("Os alabo, hermanos, porque en todo os acordáis de mí, y retenéis las instrucciones tal como os las entregué").
 - **Argumento contra Sola Scriptura:** La Iglesia existió, se expandió y combatió herejías durante décadas antes de que el canon del Nuevo Testamento fuera escrito y compilado. La Escritura misma es un producto de la Tradición de la Iglesia guiada por el Espíritu Santo.
 
 ###  **Eucaristía: Presencia Real**
 
-- **Sustento Bíblico:** Juan 6:53-55 ("De cierto, de cierto os digo: Si no coméis la carne del Hijo del Hombre, y bebéis su sangre, no tenéis vida en vosotros... Porque mi carne es verdadera comida, y mi sangre es verdadera bebida"). 1 Corintios 11:27-29 (Donde Pablo afirma que quien come el pan indignamente es "culpable del cuerpo y de la sangre del Señor").
+- **Sustento Bíblico:** [[Jn 6,53|Juan 6,53-55]] ("De cierto, de cierto os digo: Si no coméis la carne del Hijo del Hombre, y bebéis su sangre, no tenéis vida en vosotros... Porque mi carne es verdadera comida, y mi sangre es verdadera bebida"). [[1 Co 11,27|1 Corintios 11,27-29]] (Donde Pablo afirma que quien come el pan indignamente es "culpable del cuerpo y de la sangre del Señor").
 - **Sustento de los Padres:** Cita a San Justino Mártir (c. 100 – c. 165 d.C.) en su _Apología Primera_ (66), escrita alrededor del año 155 d.C.: "No tomamos estos elementos como pan común ni bebida ordinaria... se nos ha enseñado que el alimento sobre el que se ha pronunciado la acción de gracias... es la carne y la sangre de aquel Jesús que se encarnó".
 
 ###  **Sacrificio Eucarístico**
 
 - **Sustento Bíblico:** Malaquías 1:11 (Profecía del Antiguo Testamento sobre la era mesiánica: "en todo lugar se ofrecerá a mi nombre perfume y ofrenda limpia"). Lucas 22:19 ("Esto es mi cuerpo, que por vosotros es dado; haced esto en memoria [anamnesis] de mí"). anamnesis en el contexto ritual judío implica una re-presentación sacrificial, no un simple recuerdo mental.
-- **Sustento de los Padres:** Invoca la Didache (compuesta c. 50 – c. 70 d.C.) en su Capítulo 14, el documento cristiano más antiguo fuera del Nuevo Testamento, que describe la reunión dominical y la fracción del pan explícitamente como "vuestro sacrificio, para que vuestro sacrificio sea puro".
+- **Sustento de los Padres:** Invoca la [[Didaché - Didaje Español]] / [[Didache - Griego - English.pdf]] (compuesta c. 50 – c. 70 d.C.) en su Capítulo 14, el documento cristiano más antiguo fuera del Nuevo Testamento, que describe la reunión dominical y la fracción del pan explícitamente como "vuestro sacrificio, para que vuestro sacrificio sea puro".
 
 ###  **Bautismo: Regeneración** 
 
-- **Sustento Bíblico:** Juan 3:5 ("El que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios"). Hechos 2:38 ("Bautícese cada uno de vosotros... para perdón de los pecados"). 1 Pedro 3:21 ("El bautismo que corresponde a esto ahora nos salva").
+- **Sustento Bíblico:** [[Jn 3,5|Juan 3,5]] ("El que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios"). [[Hch 2,38|Hechos 2,38]] ("Bautícese cada uno de vosotros... para perdón de los pecados"). [[1 Pe 3,21|1 Pedro 3,21]] ("El bautismo que corresponde a esto ahora nos salva").
 - **Sustento de los Padres:** Refiere a San Ireneo de Lyon (c. 130 – c. 202 d.C.) en sus escritos (_Fragmentos_, 34), quien enseñaba que el agua del bautismo purifica el alma y el cuerpo de manera real, rompiendo con el concepto protestante de que el sacramento es únicamente una manifestación simbólica.
 
 ###  **Bautismo de Infantes**
