@@ -1,0 +1,1 @@
+"2 Pero vosotros no pactaréis con los habitantes de este país; sino que destruiréis sus altares. Pero no habéis escuchado mi voz. ¿Por qué habéis hecho esto?" [[Jue 2,3]]

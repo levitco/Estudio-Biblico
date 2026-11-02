@@ -1,0 +1,1 @@
+"9 Lo enterraron en el término de su heredad, en Timnat Jeres, en la montaña de Efraín, al norte del monte Gaás." [[Jue 2,10]]

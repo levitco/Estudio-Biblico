@@ -133,7 +133,7 @@ El santuario del Señor sería el sitio menos pensado para albergar esculturas s
 
 Con esto llego al argumento de cierre.
 
-En la época en que los hijos de Israel morían a causa de víboras venenosas debido a sus quejas contra el Creador, acudieron a Moisés para implorarle que intercediera ante Dios y los librara de esa plaga. La solución que el Señor diseñó para sanar a los afectados consistió en ordenar a Moisés la fabricación de una serpiente de bronce colocada sobre una astasta, con el fin de que los heridos se salvaran al fijar su mirada en ella:
+En la época en que los hijos de Israel morían a causa de víboras venenosas debido a sus quejas contra el Creador, acudieron a Moisés para implorarle que intercediera ante Dios y los librara de esa plaga. La solución que el Señor diseñó para sanar a los afectados consistió en ordenar a Moisés la fabricación de una serpiente de bronce colocada sobre una asta, con el fin de que los heridos se salvaran al fijar su mirada en ella:
 
 > [!tip] [[Nm 21|Nm 21,4-9]]: 
 > "4 Partieron del monte Hor, camino del mar de Suf, rodeando el territorio de Edom. El pueblo se impacientó por el camino.

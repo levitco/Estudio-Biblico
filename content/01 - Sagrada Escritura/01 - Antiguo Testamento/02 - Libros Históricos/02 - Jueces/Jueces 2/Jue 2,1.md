@@ -1,0 +1,1 @@
+"1 El Ángel de Yahvé subió de Guilgal a Betel y dijo: "Yo os hice subir de Egipto y os introduje en la tierra que había prometido con juramento a vuestros padres. Yo dije: No romperé jamás mi alianza con vosotros." [[Jue 2,2]]

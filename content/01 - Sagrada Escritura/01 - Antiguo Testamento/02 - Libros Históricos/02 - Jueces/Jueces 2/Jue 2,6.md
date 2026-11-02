@@ -1,0 +1,1 @@
+"6 Josué despidió al pueblo, y los israelitas se volvieron cada uno a su heredad para ocupar la tierra." [[Jue 2,7]]

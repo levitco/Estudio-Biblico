@@ -1,0 +1,1 @@
+"8 Josué, hijo de Nun, siervo de Yahvé, murió a la edad de ciento diez años." [[Jue 2,9]]

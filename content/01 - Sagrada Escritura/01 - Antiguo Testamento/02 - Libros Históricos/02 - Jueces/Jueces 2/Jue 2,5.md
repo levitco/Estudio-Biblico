@@ -1,0 +1,1 @@
+"5 Y llamaron a aquel lugar Bojín, y ofrecieron allí sacrificios a Yahvé." [[Jue 2,6]]

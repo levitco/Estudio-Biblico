@@ -1,0 +1,1 @@
+"4 Así que el Ángel de Yahvé dijo estas palabras a todos los israelitas, el pueblo se puso a llorar a gritos." [[Jue 2,5]]

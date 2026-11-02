@@ -1,0 +1,1 @@
+"7 El pueblo sirvió a Yahvé en vida de Josué y de los ancianos que le sobrevivieron y que habían sido testigos de todas las grandes hazañas que Yahvé había hecho a favor de Israel." [[Jue 2,8]]

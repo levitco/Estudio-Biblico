@@ -1,0 +1,1 @@
+"3 Por eso os digo: No los arrojaré delante de vosotros; serán vuestros opresores, y sus dioses una trampa para vosotros."" [[Jue 2,4]]
