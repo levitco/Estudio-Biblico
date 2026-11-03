@@ -1,0 +1,1 @@
+"1 Oráculo. Palabra de Yahvé dirigida a Israel por medio de Malaquías." [[Mal 1,2]]

@@ -27,6 +27,5 @@ Para la teología y la Tradición Católica, la Didaché es un tesoro monumental
 [[Didaché - Didaje Español]]
 [[Didache - Griego - English.pdf]]
 
-#Pendiente 
 
 [[00 - Índice del Diccionario| ↩️Volver al Diccionario]]

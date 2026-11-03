@@ -1,0 +1,1 @@
+"4 Si dice Edom: "Hemos sido aplastados, pero reedificaremos nuestras ruinas", así dice Yahvé Sebaot: Ellos edificarán, pero yo demoleré, y los llamarán: "Territorio de impiedad", y "Pueblo contra el que Yahvé está irritado para siempre"." [[Mal 1,5]]

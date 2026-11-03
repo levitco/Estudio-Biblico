@@ -1,0 +1,1 @@
+"7 Presentando en mi altar pan impuro. - Y encima preguntáis: ¿En qué te hemos manchado? - Pensando que la mesa de Yahvé es despreciable." [[Mal 1,8]]

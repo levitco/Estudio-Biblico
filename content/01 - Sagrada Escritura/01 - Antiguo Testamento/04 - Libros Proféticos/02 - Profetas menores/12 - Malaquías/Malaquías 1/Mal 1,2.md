@@ -1,0 +1,1 @@
+"2 Os he amado, dice Yahvé. - Pero vosotros decís: ¿En qué se nota que nos has amado? - ¿No era Esaú hermano de Jacob?, oráculo de Yahvé. Y sin embargo amé a Jacob" [[Mal 1,3]]

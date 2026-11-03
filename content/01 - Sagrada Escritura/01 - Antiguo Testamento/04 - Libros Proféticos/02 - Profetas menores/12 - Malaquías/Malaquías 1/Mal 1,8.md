@@ -1,0 +1,1 @@
+"8 Y cuando presentáis para el sacrificio una res ciega, ¿no está mal? Y cuando presentáis una coja o enferma, ¿no está mal? Anda, ofrécesela a tu gobernador: ¿se te pondrá contento o te acogerá con agrado?, dice Yahvé Sebaot." [[Mal 1,9]]

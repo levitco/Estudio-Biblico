@@ -1,0 +1,1 @@
+"6 El hijo honra a su padre, el siervo a su señor. Pues si yo soy padre, ¿dónde está mi honra? Y si señor, ¿dónde mi temor?, os dice Yahvé Sebaot a vosotros, sacerdotes que menospreciáis mi Nombre. - Decís: ¿En qué hemos menospreciado tu Nombre? -" [[Mal 1,7]]

@@ -1,0 +1,1 @@
+"3 y odié a Esaú. Entregué sus montes a la desolación y su heredad a los chacales del desierto." [[Mal 1,4]]

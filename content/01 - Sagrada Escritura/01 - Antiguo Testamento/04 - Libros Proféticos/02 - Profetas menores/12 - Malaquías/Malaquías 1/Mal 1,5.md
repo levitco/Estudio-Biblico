@@ -1,0 +1,1 @@
+"5 Vuestros ojos lo verán y vosotros diréis: "¡Grande es Yahvé más allá del término de Israel!"" [[Mal 1,6]]

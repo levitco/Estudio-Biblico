@@ -1,0 +1,1 @@
+"9 Ahora, pues, aplacad a Dios para que tenga compasión de nosotros. Venís con eso en vuestras manos, ¿acaso os acogerá agradecido?, dice Yahvé Sebaot." [[Mal 1,10]]
