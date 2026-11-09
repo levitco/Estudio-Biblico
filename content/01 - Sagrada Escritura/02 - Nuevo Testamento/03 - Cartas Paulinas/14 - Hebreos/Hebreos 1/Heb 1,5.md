@@ -1,0 +1,1 @@
+"5 En efecto, ¿a qué ángel dijo alguna vez: Hijo mío eres tú; yo te he engendrado hoy; y también: Yo seré para él un padre, y él será para mí un hijo?" [[Heb 1,6]]

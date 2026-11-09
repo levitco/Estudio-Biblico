@@ -1,0 +1,1 @@
+"4 con una superioridad sobre los ángeles tanto mayor cuanto más excelente es el nombre que ha heredado." [[Heb 1,5]]

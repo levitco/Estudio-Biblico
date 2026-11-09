@@ -1,0 +1,1 @@
+"9 Amaste la justicia y aborreciste la iniquidad; por eso te ungió, ¡oh Dios!, tu Dios con óleo de alegría entre tus compañeros." [[Heb 1,10]]

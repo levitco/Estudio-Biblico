@@ -1,0 +1,1 @@
+"6 Y nuevamente al introducir a su Primogénito en el mundo dice: Y adórenle todos los ángeles de Dios." [[Heb 1,7]]

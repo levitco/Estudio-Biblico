@@ -1,0 +1,1 @@
+"8 Pero del Hijo: Tu trono, ¡oh Dios!, por los siglos de los siglos; y: El cetro de tu realeza, cetro de equidad." [[Heb 1,9]]

@@ -1,0 +1,1 @@
+"2 En estos últimos tiempos nos ha hablado por medio del Hijo a quien instituyó heredero de todo, por quien también hizo el universo;" [[Heb 1,3]]

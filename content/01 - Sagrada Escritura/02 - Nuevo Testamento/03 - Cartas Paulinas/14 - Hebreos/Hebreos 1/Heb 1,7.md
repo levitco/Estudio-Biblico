@@ -1,0 +1,1 @@
+"7 Y de los ángeles dice: Hace de los vientos sus ángeles, y de las llamas de fuego sus ministros." [[Heb 1,8]]

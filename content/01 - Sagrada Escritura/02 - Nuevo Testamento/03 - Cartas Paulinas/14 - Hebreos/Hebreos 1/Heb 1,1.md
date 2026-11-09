@@ -1,0 +1,1 @@
+"1 Muchas veces y de muchas maneras habló Dios en el pasado a nuestros Padres por medio de los Profetas." [[Heb 1,2]]

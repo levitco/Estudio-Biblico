@@ -1,0 +1,1 @@
+"3 el cual, siendo resplandor de su gloria e impronta de su sustancia, y el que sostiene todo con su palabra poderosa, llevada a cabo la purificación de los pecados, se sentó a la diestra de la Majestad en las alturas," [[Heb 1,4]]
