@@ -1,0 +1,1 @@
+"3 y que en el tiempo oportuno ha manifestado su palabra por la predicación a mí encomendada según el mandato de Dios nuestro Salvador," [[Tit 1,4]]

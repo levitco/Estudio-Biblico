@@ -1,0 +1,1 @@
+"7 (Josué, Baní, Serebías, Yamín, Acub, Sabtay, Hodías, Maasías, Quelitá, Azarías, Jozabad, Janán, Pelayas, que eran levitas, explicaban la Ley al pueblo que seguía en pie.)" [[Neh 8,8]]

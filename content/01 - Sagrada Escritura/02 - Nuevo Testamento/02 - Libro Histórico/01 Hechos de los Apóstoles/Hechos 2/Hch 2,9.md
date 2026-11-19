@@ -1,0 +1,1 @@
+"9 Partos, medos y elamitas; los que habitamos en Mesopotamia, Judea, Capadocia, el Ponto, Asia," [[Hch 2,10]]

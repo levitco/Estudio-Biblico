@@ -1,0 +1,1 @@
+"6 El candidato debe ser irreprochable, casado una sola vez, cuyos hijos sean creyentes, no tachados de libertinaje ni de rebeldía." [[Tit 1,7]]

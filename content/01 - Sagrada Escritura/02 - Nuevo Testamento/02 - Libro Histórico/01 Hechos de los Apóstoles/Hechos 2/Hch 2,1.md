@@ -1,0 +1,1 @@
+"1 Al llegar el día de pentecostés, estaban todos reunidos con un mismo objetivo." [[Hch 2,2]]

@@ -1,0 +1,1 @@
+"9 Evita discusiones necias, genealogías, contiendas y disputas sobre la Ley, porque son inútiles y vanas." [[Tit 3,10]]

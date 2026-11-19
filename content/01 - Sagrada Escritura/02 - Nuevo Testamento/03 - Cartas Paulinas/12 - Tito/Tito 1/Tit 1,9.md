@@ -1,0 +1,1 @@
+"9 Que esté adherido a la palabra fiel, conforme a la enseñanza, para que sea capaz de exhortar con la sana doctrina y refutar a los que la contradicen." [[Tit 1,10]]

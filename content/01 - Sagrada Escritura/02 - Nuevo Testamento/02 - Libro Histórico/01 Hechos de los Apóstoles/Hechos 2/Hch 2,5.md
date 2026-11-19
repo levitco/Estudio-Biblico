@@ -1,0 +1,1 @@
+"5 Residían en Jerusalén hombres piadosos, venidos de todas las naciones que hay bajo el cielo." [[Hch 2,6]]

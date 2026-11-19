@@ -1,0 +1,1 @@
+"2 Gracia a vosotros y paz de parte de Dios nuestro Padre y del Señor Jesucristo." [[Flp 1,3]]

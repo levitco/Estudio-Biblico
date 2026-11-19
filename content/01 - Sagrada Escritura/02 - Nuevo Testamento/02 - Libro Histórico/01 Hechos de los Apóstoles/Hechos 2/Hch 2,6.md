@@ -1,0 +1,1 @@
+"6 Al producirse aquel ruido la gente se congregó y se llenó de estupor, porque cada uno les oía hablar en su propia lengua." [[Hch 2,7]]

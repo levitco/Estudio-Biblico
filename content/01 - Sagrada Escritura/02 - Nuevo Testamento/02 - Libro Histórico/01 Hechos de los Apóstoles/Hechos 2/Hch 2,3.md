@@ -1,0 +1,1 @@
+"3 Se les aparecieron unas lenguas como de fuego que se repartieron y se posaron sobre cada uno de ellos;" [[Hch 2,4]]

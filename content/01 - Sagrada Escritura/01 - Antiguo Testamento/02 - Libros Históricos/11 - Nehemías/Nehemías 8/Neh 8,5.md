@@ -1,0 +1,1 @@
+"5 Esdras abrió el libro a los ojos de todo el pueblo - pues estaba más alto que todo el pueblo - y al abrirlo, el pueblo entero se puso en pie." [[Neh 8,6]]

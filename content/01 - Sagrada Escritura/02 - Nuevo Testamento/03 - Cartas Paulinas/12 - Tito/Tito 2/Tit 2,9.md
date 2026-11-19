@@ -1,0 +1,1 @@
+"9 Que los esclavos estén sometidos en todo a sus dueños, que sean complacientes y no les contradigan;" [[Tit 2,10]]

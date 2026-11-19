@@ -1,0 +1,1 @@
+"2 De repente vino del cielo un ruido como una impetuosa ráfaga de viento, que llenó toda la casa en la que se encontraban." [[Hch 2,3]]

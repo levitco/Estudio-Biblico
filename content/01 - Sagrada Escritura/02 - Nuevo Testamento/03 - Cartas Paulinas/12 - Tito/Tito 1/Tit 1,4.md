@@ -1,0 +1,1 @@
+"4 a Tito, verdadero hijo según la fe común. Gracia y paz de parte de Dios Padre y de Cristo Jesús, nuestro Salvador." [[Tit 1,5]]

@@ -1,0 +1,1 @@
+"2 que no injurien a nadie, que no sean pendencieros sino apacibles, mostrando una perfecta mansedumbre con todos los hombres." [[Tit 3,3]]

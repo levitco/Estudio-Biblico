@@ -1,0 +1,1 @@
+"2 que los ancianos sean sobrios, dignos, sensatos, sanos en la fe, en la caridad, en la paciencia, en el sufrimiento;" [[Tit 2,3]]

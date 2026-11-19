@@ -1,0 +1,1 @@
+"1 Llegado el mes séptimo, todo el pueblo se congregó como un solo hombre en la plaza que está delante de la puerta del Agua. Dijeron al escriba Esdras que trajera el libro de la Ley de Moisés que Yahvé había prescrito a Israel." [[Neh 8,2]]

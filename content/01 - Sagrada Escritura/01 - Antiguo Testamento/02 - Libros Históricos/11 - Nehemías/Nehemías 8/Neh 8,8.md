@@ -1,0 +1,1 @@
+"8 Y Esdras leyó en el libro de la Ley de Dios, aclarando e interpretando el sentido, para que comprendieran la lectura." [[Neh 8,9]]

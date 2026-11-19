@@ -1,0 +1,1 @@
+"5 a causa de la colaboración que habéis prestado al Evangelio, desde el primer día hasta hoy;" [[Flp 1,6]]

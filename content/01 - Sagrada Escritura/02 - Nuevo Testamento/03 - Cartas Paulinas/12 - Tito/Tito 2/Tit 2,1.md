@@ -1,0 +1,1 @@
+"1 Mas tú enseña lo que es conforme a la sana doctrina;" [[Tit 2,2]]

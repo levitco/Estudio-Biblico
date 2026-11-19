@@ -1,0 +1,1 @@
+"1 Amonéstales que vivan sumisos a los magistrados y a las autoridades, que les obedezcan y estén prontos para toda obra buena;" [[Tit 3,2]]

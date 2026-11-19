@@ -25,7 +25,7 @@
 
 ###  **Sacrificio Eucarístico**
 
-- **Sustento Bíblico:** Malaquías 1:11 (Profecía del Antiguo Testamento sobre la era mesiánica: "en todo lugar se ofrecerá a mi nombre perfume y ofrenda limpia"). Lucas 22:19 ("Esto es mi cuerpo, que por vosotros es dado; haced esto en memoria [anamnesis] de mí"). anamnesis en el contexto ritual judío implica una re-presentación sacrificial, no un simple recuerdo mental.
+- **Sustento Bíblico:** [[Mal 1,11|Malaquías 1,11]] (Profecía del Antiguo Testamento sobre la era mesiánica: "en todo lugar se ofrecerá a mi nombre perfume y ofrenda limpia"). [[Lc 22,19|Lucas 22,19]] ("Esto es mi cuerpo, que por vosotros es dado; haced esto en memoria [anamnesis] de mí"). anamnesis en el contexto ritual judío implica una re-presentación sacrificial, no un simple recuerdo mental.
 - **Sustento de los Padres:** Invoca la [[Didaché - Didaje Español]] / [[Didache - Griego - English.pdf]] (compuesta c. 50 – c. 70 d.C.) en su Capítulo 14, el documento cristiano más antiguo fuera del Nuevo Testamento, que describe la reunión dominical y la fracción del pan explícitamente como "vuestro sacrificio, para que vuestro sacrificio sea puro".
 
 ###  **Bautismo: Regeneración** 
@@ -35,7 +35,7 @@
 
 ###  **Bautismo de Infantes**
 
-- **Sustento Bíblico/Tipológico:** Colosenses 2:11-12 (Donde San Pablo equipara el Bautismo con la "circuncisión de Cristo"). Si la circuncisión de la Antigua Alianza se administraba a bebés a los ocho días de nacidos, el bautismo de la Nueva Alianza mantiene ese carácter inclusivo. Hechos 16:15 y 16:33 (Bautismo de "ella y su casa", y del carcelero de Filipos "con todos los suyos").
+- **Sustento Bíblico/Tipológico:** [[Col 2,11|Colosenses 2,11-12]] (Donde San Pablo equipara el Bautismo con la "circuncisión de Cristo"). Si la circuncisión de la Antigua Alianza se administraba a bebés a los ocho días de nacidos, el bautismo de la Nueva Alianza mantiene ese carácter inclusivo. [[Hch 16,15|Hechos 16,15]] y [[Hch 16,33|16,33]] (Bautismo de "ella y su casa", y del carcelero de Filipos "con todos los suyos").
 - **Sustento de los Padres:** Se apoya en San Cipriano de Cartago (c. 200 – c. 258 d.C.) en su _Carta a Fido_ (64), escrita en el año 253 d.C., donde determinó en concilio que no se debía negar el bautismo a un niño recién nacido, confirmando que la praxis era universal y apostólica.
 
 ###  **Confirmación / Crismación**

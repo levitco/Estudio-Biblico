@@ -1,0 +1,1 @@
+"7 Muéstrate dechado de bellas obras: pureza de doctrina, dignidad," [[Tit 2,8]]

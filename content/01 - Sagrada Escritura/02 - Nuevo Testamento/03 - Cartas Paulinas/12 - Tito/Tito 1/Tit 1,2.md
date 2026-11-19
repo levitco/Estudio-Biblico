@@ -1,0 +1,1 @@
+"2 con la esperanza de vida eterna, prometida desde toda la eternidad por Dios que no miente," [[Tit 1,3]]

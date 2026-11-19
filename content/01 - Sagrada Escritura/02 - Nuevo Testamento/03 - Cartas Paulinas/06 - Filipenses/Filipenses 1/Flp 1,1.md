@@ -1,0 +1,1 @@
+"1 Pablo y Timoteo, siervos de Cristo Jesús, a todos los santos en Cristo Jesús, que están en Filipos, con los epíscopos y diáconos." [[Flp 1,2]]

@@ -1,0 +1,1 @@
+"2 Trajo el sacerdote Esdras la Ley ante la asamblea, integrada por hombres, mujeres y todos los que tenían uso de razón. Era el día uno del mes séptimo." [[Neh 8,3]]

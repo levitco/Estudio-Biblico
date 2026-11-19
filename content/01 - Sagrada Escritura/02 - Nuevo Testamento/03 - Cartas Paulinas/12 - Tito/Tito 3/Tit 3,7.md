@@ -1,0 +1,1 @@
+"7 para que, justificados por su gracia, fuésemos constituidos herederos, en esperanza, de vida eterna." [[Tit 3,8]]

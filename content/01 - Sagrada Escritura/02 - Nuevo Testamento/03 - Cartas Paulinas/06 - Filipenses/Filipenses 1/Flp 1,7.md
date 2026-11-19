@@ -1,0 +1,1 @@
+"7 Y es justo que yo sienta así de todos vosotros, pues os llevo en mi corazón, partícipes como sois todos de mi gracia, tanto en mis cadenas como en la defensa y consolidación del Evangelio." [[Flp 1,8]]

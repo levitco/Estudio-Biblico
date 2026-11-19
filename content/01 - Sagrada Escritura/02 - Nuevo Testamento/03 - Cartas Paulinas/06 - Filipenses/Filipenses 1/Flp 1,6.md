@@ -1,0 +1,1 @@
+"6 firmemente convencido de que, quien inició en vosotros la buena obra, la irá consumando hasta el Día de Cristo Jesús." [[Flp 1,7]]

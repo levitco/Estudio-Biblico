@@ -1,0 +1,1 @@
+"3 Leyó una parte en la plaza que está delante de la puerta del Agua, desde el alba hasta el mediodía, en presencia de los hombres, las mujeres y todos los que tenían uso de razón; y los oídos del pueblo estaban atentos al libro de la Ley." [[Neh 8,4]]

@@ -1,0 +1,1 @@
+"5 él nos salvó, no por obras de justicia que hubiésemos hecho nosotros, sino según su misericordia, por medio del baño de regeneración y de renovación del Espíritu Santo," [[Tit 3,6]]

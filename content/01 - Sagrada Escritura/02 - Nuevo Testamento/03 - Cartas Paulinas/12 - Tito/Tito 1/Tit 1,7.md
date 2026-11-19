@@ -1,0 +1,1 @@
+"7 Porque el epíscopo, como administrador de Dios, debe ser irreprochable; no arrogante, no colérico, no bebedor, no violento, no dado a negocios sucios;" [[Tit 1,8]]

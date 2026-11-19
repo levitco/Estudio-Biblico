@@ -1,0 +1,1 @@
+"4 se llenaron todos de Espíritu Santo y se pusieron a hablar en diversas lenguas, según el Espíritu les concedía expresarse." [[Hch 2,5]]

@@ -1,0 +1,1 @@
+"1 Pablo, siervo de Dios, apóstol de Jesucristo para llevar a los elegidos de Dios a la fe y al pleno conocimiento de la verdad que es conforme a la piedad," [[Tit 1,2]]

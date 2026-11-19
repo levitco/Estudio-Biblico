@@ -1,0 +1,1 @@
+"6 que derramó sobre nosotros con largueza por medio de Jesucristo nuestro Salvador," [[Tit 3,7]]

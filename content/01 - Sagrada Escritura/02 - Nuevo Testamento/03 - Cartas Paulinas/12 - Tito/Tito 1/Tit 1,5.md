@@ -1,0 +1,1 @@
+"5 El motivo de haberte dejado en Creta, fue para que acabaras de organizar lo que faltaba y establecieras presbíteros en cada ciudad, como yo te ordené." [[Tit 1,6]]

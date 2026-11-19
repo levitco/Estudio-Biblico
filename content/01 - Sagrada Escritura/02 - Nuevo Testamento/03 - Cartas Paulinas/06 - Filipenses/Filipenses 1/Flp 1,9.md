@@ -1,0 +1,1 @@
+"9 Y lo que pido en mi oración es que vuestro amor siga creciendo cada vez más en conocimiento perfecto y todo discernimiento," [[Flp 1,10]]

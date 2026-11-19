@@ -1,0 +1,1 @@
+"8 palabra sana, intachable, para que el adversario se avergüence, no teniendo nada malo que decir de nosotros." [[Tit 2,9]]

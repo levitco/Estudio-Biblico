@@ -1,0 +1,1 @@
+"5 a ser sensatas, castas, hacendosas, bondadosas, sumisas a sus maridos, para que no sea injuriada la palabra de Dios." [[Tit 2,6]]

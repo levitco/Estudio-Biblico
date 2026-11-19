@@ -1,0 +1,1 @@
+"6 Exhorta igualmente a los jóvenes para que sean sensatos en todo." [[Tit 2,7]]

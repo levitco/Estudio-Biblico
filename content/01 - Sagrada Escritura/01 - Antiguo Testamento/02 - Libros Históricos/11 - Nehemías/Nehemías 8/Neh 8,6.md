@@ -1,0 +1,1 @@
+"6 Esdras bendijo a Yahvé, el Dios grande; y todo el pueblo, alzando las manos, respondió: "¡Amén! ¡Amén!"; e inclinándose se postraron ante Yahvé, rostro en tierra." [[Neh 8,7]]

@@ -1,0 +1,1 @@
+"3 que las ancianas asimismo sean en su porte cual conviene a los santos: no calumniadoras ni esclavas de mucho vino, maestras del bien," [[Tit 2,4]]

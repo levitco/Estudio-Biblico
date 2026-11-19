@@ -1,0 +1,1 @@
+"9 Entonces (Nehemías - el gobernador - y) Esdras, el sacerdote escriba (y los levitas que explicaban al pueblo) dijeron a todo el pueblo: "Este día está consagrado a Yahvé vuestro Dios; no estéis tristes ni lloréis". Pues todo el pueblo lloraba al oír las palabras de la Ley." [[Neh 8,10]]

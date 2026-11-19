@@ -1,0 +1,1 @@
+"8 sino hospitalario, amigo del bien, sensato, justo, piadoso, dueño de sí." [[Tit 1,9]]

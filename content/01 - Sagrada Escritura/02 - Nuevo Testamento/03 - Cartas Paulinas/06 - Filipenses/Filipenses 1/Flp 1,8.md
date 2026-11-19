@@ -1,0 +1,1 @@
+"8 Pues testigo me es Dios de cuánto os quiero a todos vosotros en el corazón de Cristo Jesús." [[Flp 1,9]]

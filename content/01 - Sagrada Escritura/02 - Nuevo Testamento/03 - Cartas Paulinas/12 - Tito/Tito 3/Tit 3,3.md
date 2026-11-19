@@ -1,0 +1,1 @@
+"3 Pues también nosotros fuimos en algún tiempo insensatos, desobedientes, descarriados, esclavos de toda suerte de pasiones y placeres, viviendo en malicia y aborrecibles y odiándonos unos a otros." [[Tit 3,4]]

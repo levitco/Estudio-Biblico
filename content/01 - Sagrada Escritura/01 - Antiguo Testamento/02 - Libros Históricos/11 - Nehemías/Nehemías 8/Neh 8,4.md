@@ -1,0 +1,1 @@
+"4 El escriba Esdras estaba de pie sobre un estrado de madera levantado para esta ocasión; junto a él estaban: a su derecha, Matitías, Sema, Anayas, Urías, Jilquías y Maasías, y a su izquierda, Pedayas, Misael, Malquías, Jasún, Jasbadaná, Zacarías y Mesulán." [[Neh 8,5]]

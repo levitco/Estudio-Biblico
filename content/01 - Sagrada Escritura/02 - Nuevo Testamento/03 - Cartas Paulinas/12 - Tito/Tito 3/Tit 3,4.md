@@ -1,0 +1,1 @@
+"4 Mas cuando se manifestó la bondad de Dios nuestro Salvador y su amor a los hombres," [[Tit 3,5]]

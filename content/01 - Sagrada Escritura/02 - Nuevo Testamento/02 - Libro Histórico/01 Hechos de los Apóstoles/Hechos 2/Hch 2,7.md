@@ -1,0 +1,1 @@
+"7 Estupefactos y admirados decían: "¿Es que no son galileos todos estos que están hablando?" [[Hch 2,8]]

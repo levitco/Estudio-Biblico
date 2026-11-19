@@ -1,0 +1,1 @@
+"8 Pues ¿cómo cada uno de nosotros les oímos en nuestra propia lengua nativa:" [[Hch 2,9]]

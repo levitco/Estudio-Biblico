@@ -1,0 +1,1 @@
+"8 Es cierta esta afirmación, y quiero que en esto te mantengas firme, para que los que creen en Dios traten de sobresalir en la práctica de las bellas obras. Esto es hermoso y útil para los hombres." [[Tit 3,9]]
